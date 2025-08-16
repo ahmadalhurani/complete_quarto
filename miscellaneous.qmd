@@ -1,0 +1,30 @@
+# Miscellaneous
+
+### *The 3 questions in **general look of the patient***
+
+1.  Do you know who I am?
+
+2.  Do you know where you are?
+
+3.  Do you know what time it is?
+
+### *The 6 vital signs*
+
+1.  _Heart rate (pulse rate)_ ($60 - 100$ beat per minute)
+2.  _Blood pressure_
+3.  _Respiratory rate_ ($12-20$ breath per minute)
+4. _Oxygen concentration_ (SpO₂) ($\geq 95\%$ or 88\%-92\% if COPD)
+5.  _Body temperature_ (*$36.5\leq x \leq37.2$)
+6.  _Pain score out of $10$_
+
+### *The usuals for palpation*
+1. Mention that your hands are warm and clean (you can also rub your hands together to warm them, re-apply hygiene too)
+2. Ask about pain in the area you're about to palpate, hold eye contact and begin
+
+### *The 5F's of abdominal distension*
+1. Fetus _(Pregnancy)_
+2. Flatus _(Any cause of bloating such as IBS..etc)_
+3. Feces _(Constipation)_
+4. Fluid _(Any cause such as ascites of chronic liver disease)_
+5. Fat
+

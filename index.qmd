@@ -1,0 +1,16 @@
+# Preface to the 2nd version {.unnumbered}
+
+Welcome to the *$2nd$ version* of **The Complete** internal medicine physical examination checklists!
+
+## What's new
+
+1. This eBook is written with [Quarto](https://quarto.org), for smoother experience than ever! No need to use slow notion websites anymore!
+
+2. Added some important tables and images to help guide you with knowledge while performing physical examination
+
+3. Refined content, for more cohesive experience!
+
+4. Open sourced The Complete!
+
+
+

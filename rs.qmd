@@ -1,0 +1,200 @@
+---
+title: "Respiratory checklist"
+format: html
+---
+
+```{=html}
+<div style="display: flex; justify-content: space-between; margin: 20px 0;">
+  <img src="rs.png" style="width: 40%; height: auto; object-fit: contain;">
+  <img src="rs2.png" style="width: 60%; height: auto; object-fit: contain;">
+</div>
+```
+
+## WIPPER and the intro
+
+- [ ] Introduce yourself and shake hands
+- [ ] Washing of hands and appropriate hand hygiene 
+- [ ] Asking for permission
+- [ ] Ensuring the room's privacy
+- [ ] Ensuring the environmental warmth and good lighting conditions
+- [ ] Asking for appropriate exposure (**from the waist and above**)
+- [ ] Asking the patient to be in the appropriate position (**simi-sitting at 45 degrees in bed**)
+- [ ] Relocating to the right side of the patient
+- [ ] Asking for a chaperon
+- [ ] "I have all of my equipment's"
+
+## General look of the patient
+
+- [ ] **Consciousness, alertness and orientation** of the patient to place, time and person (Asking the 3 questions) - **in RS,** *disorientation is a sign for CO2 retention, it causes confusion (Hypercapnia)*
+- [ ] Commenting on the **patient's position and comfort**
+- [ ] Commenting on the patient's **external devices** status (No oxygen masks, nebulizers etc.)
+- [ ] Commenting on **respiratory rate (Not tachypneic)**, **respiratory distress** (Mention these 2 signs)  
+  1) No apparent use of **accessory muscles** for breathing like *sternocleidomastoid, trapezius and scalene)*  
+  2) No Indrawing of **intercostal spaces**
+- [ ] Commenting on **cyanosis**
+- [ ] No abnormal **sounds**
+- [ ] No abnormal **odors**
+
+## Vital signs
+
+- [ ] Make sure you know the 6 vital signs
+- [ ] What is **pulsus paradoxus**?
+
+- **Pulsus paradoxus** is a more marked inspiratory decrease in arterial pressure exceeding 10 mmHg
+- **BMI is vital** in respiratory system, obese patients may get *obstructive sleep apnea*
+- **Weight loss** in COPD patients **increases risk of morbidities** (++inflammatory cytokines = ++metabolic rate)
+
+## Hands examination
+
+Starting with the still hand
+
+- [ ] No **deformities** / **amputations**
+- [ ] No **palmar erythema**
+- [ ] No **pallor**
+- [ ] No **scars, swellings and no visible masses**
+- [ ] No **tar staining**
+- [ ] No **muscle wasting** (thenar and hypothenar)
+
+Moving on to the nails
+
+- [ ] No **clubbing** (May be asked to do the 3 tests, **nail bed angle** / **schamroth's window** / **fluctuations**)
+- [ ] No nail deformities like **yellow nail syndrome**
+
+Hand palpation and radial pulse
+
+- [ ] After doing the [usual for palpation](miscellaneous.qmd); check **temperature + dryness/sweatiness**
+- [ ] Test for **HPOA** (**Hypertrophic pulmonary osteoarthropathy**) (**Wrist tenderness**)
+- [ ] Test for **Capillary refill** (1 minute pressure on the nail, refill in <2 seconds)
+- [ ] Check **radial pulse**
+
+End this section by examining for tremor
+
+- [ ] Test for **fine tremor**
+- [ ] Test for **asterixis (Flapping tremor)** ~ *(CO2 retention)*
+
+## Face examination
+
+- [ ] Comment on having no **plethoric face**
+- [ ] Comment on having no **face swelling**
+
+By examining the **eye**, make these 3 comments:
+
+- [ ] No **jaundice** (Examining the sclera)
+- [ ] No **pallor** (Examining the color of conjunctiva)
+- [ ] No **conjunctival edema**
+- [ ] Check for **Horner syndrome** (3 signs; **ptosis**, **meiosis**, **anhidrosis**)
+- [ ] No **nasal flaring**
+- [ ] No **pursed lips** 
+- [ ] Comment on **cyanosis** (Peripheral on lips, central under the tongue)
+- [ ] Comment on **good oral and dental hygiene**
+
+## Neck examination
+
+- [ ] No **scars, swellings, visible masses**
+- [ ] No visible **dilated veins**
+- [ ] Mention examining the **JVP** (SKIP)
+- [ ] Mention examining the **cervical lymph nodes** (SKIP)
+
+## Chest Inspection
+
+**First, relocate to the foot of the bed**
+
+- [ ] Comment on symmetrical elliptical chest in cross section **(Shape)**
+- [ ] Before chest expansion, `ask the patient to **take a deep breath first**!`
+- [ ] Comment on **bilaterally symmetrical** **chest expansion**
+- [ ] No **chest deformities** (kyphosis, scoliosis, pectus carinatum, pectus excavatum, barrel chest)
+- [ ] Normal bilaterally symmetrical **breathing pattern** that's **Abdomeno-Thoracic** 
+- [ ] **Pemberton sign** (raise both of your hands, wait for facial plethora) to check for SVC obstruction
+
+**From the right side of the patient**
+
+- [ ] No **Scars, swellings, visible masses**
+- [ ] No skin **lesions** ~ **Subcutaneous nodules** (Malignancy)
+- [ ] No **visible dilated veins**
+- [ ] Normal **hair distribution** 
+- [ ] Check the **axilla** too!!!!
+
+## Chest Palpation
+
+Do the [usuals for any palpation](miscellaneous.qmd) and then;
+
+1) **General palpation:**
+
+- [ ] Palpate using the palm of the hand around the chest
+
+Mention that you found:
+
+- [ ] No **tenderness**
+- [ ] No **subcutaneous emphysema**
+- [ ] No **palpable masses**
+
+2) **Upper mediastinum palpation:**
+
+- [ ] Using 3 fingers, check for **tracheal deviation** (comment that it's centralized)
+- [ ] Ask the patient to take a deep inspiration, to check for **tracheal tug**
+- [ ] Comment on no tracheal tug
+- [ ] Measure the **crico-sternal distance** (Normally; 3 to 4 fingers)
+
+3) **Lower mediastinum palpation:**
+
+- [ ] Using **palm of the hand** at first, then **two fingers**; **locate the Apex beat**
+- [ ] **After locating it**, start from the sternal angle, horizontal with 2nd intercostal space, count and mention the position of apex beat (Normal pos is in 5th intercostal space, mid clavicular line)
+- [ ] Mention that it's **gently-tapping apex beat!** / gently raises the pulsating finger!
+- [ ] Using heel of the hand; putting it in the **lower-left sternal angle**; locate the **right ventricular heave**, should be negative (sign of *severe pulmonary hypertension*)
+
+4) **Last tests**
+
+- [ ] Test for **tactile vocal fremitus** by using palm of the hand on 4 points anteriorly, 4 points posteriorly, 3 points laterally. (SAY اربعة واربعين)
+- [ ] Comment on **normal bilaterally symmetrical tactile vocal fremitus**
+- [ ] Test for chest expansion, **upper and lower anteriorly**
+- [ ] Test for chest expansion, **only once posteriorly**
+
+Normal chest expansion is around 2.5cm on each side!
+
+- [ ] Comment on normal bilaterally symmetrical **chest expansion**
+
+## Chest Percussion
+
+**Percuss bilaterally for each spot;**
+
+- [ ] Start percussing for the **lung apex** (left hand pointing posteriomedial)
+- [ ] Percuss on the **clavicle heads** with **only your right middle finger**
+- [ ] Percuss from the 2nd intercostal space and keep going space by space
+- [ ] Anteriorly and on the right, **find the liver's level**
+- [ ] **Percuss both lateral sides of the chest**
+- [ ] **Percuss posteriorly** (``Ask patient to hug a magical pillow!`)
+- [ ] **Calculate diaphragmatic excursion on each side**! (Remember what we ask the patient for ~ deep inspiration etc) - normal distance 5-8cm
+
+**Comment on having normal, bilaterally symmetrical resonant percussion note**
+
+## Chest Auscultation
+
+**Get your stethoscope ready!** set it to use the diaphragm (large one), test that by **GENTLY tapping it**, **WARM it** by rubbing it with your hand
+
+- [ ] Ask the patient to **face the other side** (his left side; you're on the right side right? wait right?!)
+- [ ] Ask the patient to take a **deep inspiration and expiration** every time the stethoscope touches him (from the mouth and not the nose)
+- [ ] Listen to chest sounds using **diaphragm** of stethoscope on the lung apex, anterior chest, lateral and posterior chest (again, bilaterally on each spot)
+- [ ] Comment on normal **bilaterally symmetrical vesicular breathing sound with inspiration phase longer than expiration**
+- [ ] Comment on **good bilateral** **air entry**
+- [ ] Comment on having **no added sounds** (examples; **wheeze, crackles, pleural rub**)
+
+**Vocal resonance (Non-tactile)**
+
+- [ ] Listen to the chest again, same positions but instead of deep insp/exp ask the patient to say اربعة واربعين
+- [ ] Comment on **normal bilateral vocal resonance**
+
+**Whispered pectoriloquy**
+
+- [ ] Listen to the chest again, same positions but instead of deep insp/exp ask the patient to WHISPER (يهمس اربعة واربعين)
+- [ ] Comment on hearing **no whispering pectoriloquy**
+
+**Aeogophony**
+
+- [ ] Listen to the chest again, same positions but instead of deep insp/exp ask the patient to say E
+- [ ] Comment on hearing **no aeogophony**
+
+## **ENDING the station!**
+
+- [ ] I would like to request **ENT examination** for my patient to check his upper airways
+- [ ] I would like to examine the abdomen for **hepato-spleenomegaly** and **ascitis**
+- [ ] I would like to examine lower limbs for **edema**, **erythema nodosum**, signs of **DVT**

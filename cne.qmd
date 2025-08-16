@@ -1,0 +1,208 @@
+---
+title: "Cranial Nerve Examination checklist"
+format: html
+---
+
+## WIPPER and the Intro
+
+- [ ] Introduce yourself and shake hands
+- [ ] Washing of hands and appropriate hand hygiene 
+- [ ] Asking for permission
+- [ ] Ensuring the room's privacy
+- [ ] Ensuring the environmental warmth and good lighting conditions
+- [ ] Asking for appropriate exposure (Head and neck)
+- [ ] Asking the patient to be in the appropriate position (Sitting on a chair)
+- [ ] Relocating to the right side of the patient
+- [ ] Asking for a chaperon
+- [ ] "I have all of my equipment's"
+
+## Olfactory Nerve Examination (Useless)
+
+- [ ] Check the nasal passage 
+- [ ] Ask the patient to close his eyes
+- [ ] Close one nostril to test the other 
+- [ ] Ask the patient to smell (Use scratch and sniff test cards from UPSIT test)
+- [ ] Close the other nostril and repeat
+
+## Optic Nerve Examination 
+
+#### Inspection
+
+- [ ] Comment on no head tilt
+- [ ] Comment on no facial asymmetry
+- [ ] Comment on no proptosis 
+- [ ] Comment on no lid retraction
+- [ ] Do lid lag test, stand up and ask the patient to follow your finger, move it up and back, bottom and back, and comment on no lid lag
+
+#### Palpation
+
+- [ ] Do the usuals for palpation
+- [ ] Comment on no tenderness over the eyes
+
+#### Tests to Mention
+
+- [ ] "I will assess visual acuity using Snellen's chart"
+- [ ] "I will assess color vision using Isihara plates"
+- [ ] "I will assess macular sparing using Amsler's grid"
+- [ ] "I will do fundoscopy examination for things like optic disk examination, papilledema etc."
+
+### Pupillary Reflexes Tests
+
+- [ ] Dim the room and check the pupils' size for anisocorea
+- [ ] Ask the patient to fixate his eye on a distant point
+- [ ] Get your torch, slide it horizontally to one eye, notice "Direct" reflex, then look at the other eye for "Indirect/consensual" reflex
+- [ ] Comment on intact direct and indirect pupillary reflexes
+- [ ] While patient is fixating, put your finger ~15cm in front, ask him to focus on it and notice "Convergence"
+- [ ] Comment on normal accommodation reflex
+
+### Visual Field Tests
+
+- [ ] Ask the patient to look at your eyes
+- [ ] Hold 1 hand at full extent, wiggle fingers and ask if patient sees movement
+- [ ] Test at 2, 4, 8 and 10 o'clock positions
+- [ ] Comment no homonymous visual field defect
+- [ ] For sensory inattention: hold both hands at 2 and 10 o'clock, wiggle one then both
+- [ ] Comment no sensory inattention
+
+### Peripheral Visual Fields (one eye at a time)
+
+- [ ] Perform 1 eye closing maneuver
+- [ ] Ask patient to look at your eyes
+- [ ] Test each quadrant (2,4,8,10 o'clock) with finger wiggling
+- [ ] Test the other eye
+- [ ] Comment no peripheral visual field defects
+
+### Color Desaturation
+
+- [ ] Show red object to ensure patient sees it red
+- [ ] Perform 1 eye closing maneuver
+- [ ] Place red object in front of open eye, ask about color
+- [ ] Test the other eye
+- [ ] Comment "No red desaturation"
+
+### Central Visual Field
+
+- [ ] Perform 1 eye closing maneuver
+- [ ] Ask patient to look at your eyes
+- [ ] Move red object from side to center until color is noticed
+- [ ] Test the other eye
+- [ ] Comment no central visual field defects
+
+### Blind Spot
+
+- [ ] Perform 1 eye closing maneuver
+- [ ] Ask patient to look at your eyes
+- [ ] Move red object horizontally until it disappears
+- [ ] Test the other eye
+- [ ] Comment on normal blind spot size
+
+## Ocular Movement Nerves (3rd, 4th, 6th)
+
+- [ ] Ask patient to fix head and only move eyeballs following your finger
+- [ ] Draw H shape, observe eye movements
+- [ ] Ask about diplopia and its features if present
+- [ ] Comment on no nystagmus, no diplopia, full range of motion
+
+## Trigeminal Nerve
+
+#### Sensory
+
+- [ ] Test light touch on V1,V2,V3 areas bilaterally with cotton-wool
+- [ ] Repeat with neural tip for superficial pain
+- [ ] Mention testing general sensation on anterior 2/3 of tongue
+- [ ] Comment on intact symmetrical sensation
+
+#### Motor
+
+- [ ] Palpate/inspect temporalis for wasting
+- [ ] Ask patient to clench teeth, check masseters
+- [ ] Ask patient to open mouth, inspect for jaw deviation
+- [ ] Comment no muscle wasting, good bulk, no deviation
+
+#### Reflexes
+
+- [ ] For jaw reflex: place finger between lower lip/chin, percuss with hammer
+- [ ] Comment on normal jaw reflex
+- [ ] Mention testing corneal reflex
+
+## Facial Nerve
+
+#### Motor
+
+- [ ] Ask patient to raise eyebrows, assess symmetry (frontalis)
+- [ ] Comment symmetrical wrinkles
+- [ ] Ask patient to forcefully close eyes against resistance
+- [ ] Comment normal power of orbicularis oculi
+- [ ] Ask patient to "Blow out your cheeks and don't let me deflate them"
+- [ ] Comment normal power of buccinator/orbicularis oris
+- [ ] Ask patient to show teeth (smile)
+- [ ] Comment symmetry and no mouth angle deviation
+
+#### Sensory
+
+- [ ] Test touch sensation behind ear
+- [ ] Mention testing taste on anterior 2/3 of tongue
+- [ ] Mention corneal reflex
+- [ ] Ask about hearing changes (stapedius muscle)
+
+## Vestibulocochlear Nerve
+
+#### Hearing Tests
+
+- [ ] Stand behind patient, ensure normal hearing first
+- [ ] Close one ear, whisper at 60cm, ask patient to repeat
+- [ ] If needed, whisper at 15cm
+
+#### Weber's Test
+
+- [ ] Tap 512Hz fork, place on forehead midline
+- [ ] Ask if sound is louder in any ear
+- [ ] Comment negative Weber's test (no lateralization)
+
+#### Rinne's Test
+
+- [ ] Tap 512Hz fork, place on mastoid prominence
+- [ ] Ask patient to signal when sound stops
+- [ ] Move fork near ear, ask if sound returns
+- [ ] Comment positive Rinne's test (air>bone conduction)
+
+## Glossopharyngeal and Vagus Nerves
+
+- [ ] Ask patient to talk, note no dysphonia/dysarthria
+- [ ] Ask patient to say "aah", check uvula
+- [ ] Comment no uvula deviation
+- [ ] Ask patient to puff cheeks, listen for nasal regurgitation
+- [ ] Comment no nasal regurgitation
+- [ ] Ask patient to cough (assess for bovine cough)
+- [ ] Mention testing gag reflex
+- [ ] Mention giving water to assess swallowing
+- [ ] Mention testing taste on posterior 1/3 of tongue
+
+## Accessory Nerve
+
+- [ ] Inspect SCM and trapezius
+- [ ] Comment no wasting/asymmetry in trapezius
+- [ ] Palpate both muscles for bulk
+- [ ] Comment normal bulk
+- [ ] Test trapezius power: shrug shoulders against resistance
+- [ ] Comment normal trapezius power
+- [ ] Test SCM power: turn head against resistance
+- [ ] Test other SCM
+- [ ] Test bilateral SCM: look down against chin resistance
+- [ ] Comment normal SCM power
+
+## Hypoglossal Nerve
+
+- [ ] Ask patient to open mouth, inspect tongue
+- [ ] Comment no wasting/fasciculations
+- [ ] Ask patient to protrude tongue, check deviation
+- [ ] Comment no deviation/fasciculations
+- [ ] Ask patient to move tongue side-to-side quickly
+- [ ] Comment normal movement
+- [ ] Ask patient to press tongue against cheek, assess power
+- [ ] Comment normal power
+- [ ] Assess speech with "Yellow lorry" etc.
+- [ ] Comment normal speech
+- [ ] Mention testing swallowing
+
+THE END

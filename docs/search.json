@@ -1,0 +1,822 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "The Complete - Physical Examination Checklists",
+    "section": "",
+    "text": "Preface to the 2nd version\nWelcome to the \\(2nd\\) version of The Complete internal medicine physical examination checklists!",
+    "crumbs": [
+      "Preface to the 2nd version"
+    ]
+  },
+  {
+    "objectID": "index.html#whats-new",
+    "href": "index.html#whats-new",
+    "title": "The Complete - Physical Examination Checklists",
+    "section": "What’s new",
+    "text": "What’s new\n\nThis eBook is written with Quarto, for smoother experience than ever! No need to use slow notion websites anymore!\nAdded some important tables and images to help guide you with knowledge while performing physical examination\nRefined content, for more cohesive experience!\nOpen sourced The Complete!",
+    "crumbs": [
+      "Preface to the 2nd version"
+    ]
+  },
+  {
+    "objectID": "cvs.html",
+    "href": "cvs.html",
+    "title": "Cardiovascular checklist",
+    "section": "",
+    "text": "WIPPER and the intro",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Cardiovascular checklist</span>"
+    ]
+  },
+  {
+    "objectID": "cvs.html#wipper-and-the-intro",
+    "href": "cvs.html#wipper-and-the-intro",
+    "title": "Cardiovascular checklist",
+    "section": "",
+    "text": "Introduce yourself and shake hands\nWashing of hands and appropriate hand hygiene\nAsking for permission\nEnsuring the room’s privacy\nEnsuring the environmental warmth and good lighting conditions\nAsking for appropriate exposure (from the waist and above)\nAsking the patient to be in the appropriate position (semi-sitting at 45 degrees in bed)\nRelocating to the right side of the patient\nAsking for a chaperon\n“I have all of my equipment’s”",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Cardiovascular checklist</span>"
+    ]
+  },
+  {
+    "objectID": "cvs.html#general-look-of-the-patient",
+    "href": "cvs.html#general-look-of-the-patient",
+    "title": "Cardiovascular checklist",
+    "section": "General look of the patient",
+    "text": "General look of the patient\n\nConsciousness, alertness and orientation of the patient to time, place and person (After asking the 3 questions)\nComment on the patient’s position and comfort\nComment on the patient’s external devices status (No oxygen masks, nebulizers etc.)\nComment on respiratory rate (Not tachypneic), respiratory distress\nComment on cyanosis\nComment on edema",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Cardiovascular checklist</span>"
+    ]
+  },
+  {
+    "objectID": "cvs.html#vital-signs",
+    "href": "cvs.html#vital-signs",
+    "title": "Cardiovascular checklist",
+    "section": "Vital Signs",
+    "text": "Vital Signs\n\nMake sure you know the 6 vital signs",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Cardiovascular checklist</span>"
+    ]
+  },
+  {
+    "objectID": "cvs.html#hands---inspection",
+    "href": "cvs.html#hands---inspection",
+    "title": "Cardiovascular checklist",
+    "section": "Hands - Inspection",
+    "text": "Hands - Inspection\nStarting with the hand\n\nNo cyanosis\nNo pallor\nNo palmar erythema\nNo petechial rash\nNo Xanthomata (Hyper-lipidemia)\nNo Janeway lesions (painless, thenar region) (Infective endocarditis)\nNo Osler’s nodes (painful, tip of fingers) (Infective endocarditis)\nNo tar staining\nNo IV drug abuse signs\n\nMoving on to the nails\n\nNo finger clubbing\nNo splinter hemorrhages (Infective endocarditis)\n\nEnd this section by examining for tremor\n\nExamine for fine tremor",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Cardiovascular checklist</span>"
+    ]
+  },
+  {
+    "objectID": "cvs.html#hands---palpation",
+    "href": "cvs.html#hands---palpation",
+    "title": "Cardiovascular checklist",
+    "section": "Hands - Palpation",
+    "text": "Hands - Palpation\n\nCheck hands’ temperature, dry/sweatiness\nCheck Capillary refill (&lt;2 seconds is a normal capillary refill time)\n\nCheck pulses bilaterally, details below\nAll pulses are done with 2 fingers, except for radial;",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Cardiovascular checklist</span>"
+    ]
+  },
+  {
+    "objectID": "cvs.html#radial-pulse",
+    "href": "cvs.html#radial-pulse",
+    "title": "Cardiovascular checklist",
+    "section": "Radial pulse",
+    "text": "Radial pulse\n\nRadial pulse; using 3 fingers, lateral to flexor carpi radialis, after 1 minute (do 15sec), comment on the rate, rhythm, volume, character and compressibility.\nCheck both radial pulses simultaneously to assess “Radio-radial delay”, a sign for aortic dissection\nCheck radial and femoral pulses simultaneously to assess “Radio-femoral delay”, a sign for aortic coarctation (ONLY MENTION)\nCalculate pulse deficit, we don’t do this during exams (mention it), but a difference of +10 BPM is abnormal (Associated with atrial fibrillation)\nNow ask the patient about shoulder pain first, if none is present, elevate hand above level of patient’s head while checking the radial pulse, to check for “Collapsing pulse” (Aortic regurgitation)\nDon’t forget to comment your findings, mention the HR measured, regular rhythm, normal volume, normal character, compressible, no radio-radial/radio-femoral delays, no pulse deficit, no collapsing pulse.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Cardiovascular checklist</span>"
+    ]
+  },
+  {
+    "objectID": "cvs.html#brachial-pulse",
+    "href": "cvs.html#brachial-pulse",
+    "title": "Cardiovascular checklist",
+    "section": "Brachial pulse",
+    "text": "Brachial pulse\n\nUsing 2 fingers, assess the brachial pulse medial to the biceps tendon in antecubital fossa. (Bilaterally)\nMention rate, rhythm, volume, character and compressibility",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Cardiovascular checklist</span>"
+    ]
+  },
+  {
+    "objectID": "cvs.html#carotid-pulse",
+    "href": "cvs.html#carotid-pulse",
+    "title": "Cardiovascular checklist",
+    "section": "Carotid pulse",
+    "text": "Carotid pulse\n\nUsing 2 fingers, gently assess the carotid pulse anterior to sternocleidomastoid near the jaw.\nBilaterally, but never feel both sides at the same time as that might trigger vasovagal attack, comment on rate, rhythm, volume, character and compressibility\nAsk the patient to hold his breath, and auscultate for the bruit\nComment on the bruit\n\n\nFemoral (mention only), posterior tibial and dorsalis pedis are done in PVS. We do them if the station was a focused pulses station",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Cardiovascular checklist</span>"
+    ]
+  },
+  {
+    "objectID": "cvs.html#face",
+    "href": "cvs.html#face",
+    "title": "Cardiovascular checklist",
+    "section": "Face",
+    "text": "Face\n\nCheck eyelids for xanthelasmata (Hyper-lipidemia)\nCheck iris for corneal arcus (Hyper-lipidema)\nCheck conjunctiva for pallor and petechial hemorrhage (Infective endocarditis)\nMention that you need fundoscopy to check for roth spots (Infective endocarditis), or HTN/DM changes\nCheck for malar flush on cheeks (Mitral valve stenosis)\nCheck for any signs of central cyanosis (Under the tongue), peripheral cyanosis (On the lips)",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Cardiovascular checklist</span>"
+    ]
+  },
+  {
+    "objectID": "cvs.html#jvp-examination",
+    "href": "cvs.html#jvp-examination",
+    "title": "Cardiovascular checklist",
+    "section": "JVP Examination",
+    "text": "JVP Examination\nAs JVP is very important and might be a full station on its own, make sure you’re ready for it.\n\nInspection\n\nRest the patient’s head on a pillow (Make sure its rested, we need a relaxed sternocleidomastoid), ask him to turn his head slightly to the left, using a torch, try to find JVP pulsation.\nComment, double peaked, inward pulsating JVP\n\n\n\nPalpation\n\nAfter doing the usuals for any palpation, try to palpate it\n\nJVP is normally impalpable, so make this comment and move on\n\nCompress the root of the neck, JVP should disappear, comment that it disappeared after compressing root of the neck\nAsk the patient to lie flat → Increased JVP (comment)\nAsk the patient to sit straight → Decreased JVP (comment)\nAsk the patient to take a deep inspiration → Decreased JVP (comment)\nCheck abdominojugular reflux, press (while gradually increasing pressure) on the Rt upper quadrant for 30 seconds (don’t do full 30 of course), on a positive test (normally positive), JVP increases (comment whether positive or negative reflux)\n\n\n\nMeasuring JVP\n\nUse a ruler, put it on the sternal angle (Straight with the ground not patient’s body), assess using a straight object that’s put on the highest pulsation you see of the JVP, measure on the ruler and add 5cm and comment on the measured JVP (Normally it’s &lt;9cmH20)",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Cardiovascular checklist</span>"
+    ]
+  },
+  {
+    "objectID": "cvs.html#precordium-examination",
+    "href": "cvs.html#precordium-examination",
+    "title": "Cardiovascular checklist",
+    "section": "Precordium Examination",
+    "text": "Precordium Examination\n\nInspection\nFrom the foot of the bed;\n\nFirst ask the patient to take a deep breath\nComment “Symmetrical chest with no visible deformities, bilateral movement of chest with respiration”\n\nFrom the right side of the pt;\n\nCheck for scars, make sure you know what scars mean;\n\nMidsternotomy is for CABG\n\nLeft submammary is for mitral valvotomy\n\nInfraclavicular is for pacemakers\nAnd mention no scars\n\nMention no swellings, visible masses, dilated veins.\nMention normal hair distribution\nUsing the torch, mention afterwards that you see no visible pulsation/no visible apex beat\n\n\n\nPalpation\n\nDo the usuals for palpation\nGenerally palpate the chest, don’t miss any point, use your whole hand\nComment no palpable masses, no tenderness\n\nApex beat\n\nTry to find it using your whole hand\nTry to find it using 2 fingers (roll the patient to the left side if you couldn’t find it)\nLocate it → which intercostal space, is it midclavicular?\nComment; gently tapping apex beat, located in the 5th intercostal space, midclavicular line.\n\nHeaves\n\nUsing your hand’s heel, ask the patient to expire and hold his breath, assess both right ventricular heave (lower left sternal angle), and left ventricular heave (apex, hence “apical heave”)\nComment! No right or left ventricular heaves\n\nThrills\n\nUsing your flat fingers; not the tips nor the base, check for thrills in 4 locations; apex, parasternal, right and left second intercostals.\nComment! No thrills\n\n\n\nAuscultation\n\n\n\nAuscultation spots\n\n\nDifferentiate S1/S2 by feeling carotid pulse while auscultating the patient\n\nFirst, with the diaphragm, 4 valvular spots and 2 radiation spots\n\n4 Valvular spots, mitral, tricuspid, aortic and pulmonary\n1 Carotid, for radiation of aortic stenosis\n1 Left axilla, for radiation of mitral regurgitation\n\nSecond, with the bell, 4 spots\n\n4 Valvular spots (some only use the bell for mitral and tricuspid, you’ll not be penalized for more spots anyway)\n\nLast, finish with 2 maneuvers\n\nAortic regurgitation, using the diaphragm, ask the patient to sit straight and then lean forward, examine (aortic area), and Erb’s area.\nMitral stenosis, using the bell, ask the patient to roll to his left side and then put the bell on the apex.\nComment on the whole auscultation; “Normal S1,S2, no S3,S4, normal physiological splitting of S2, no murmurs, no added sounds like opening snap, ejection click or friction rub”",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Cardiovascular checklist</span>"
+    ]
+  },
+  {
+    "objectID": "cvs.html#ending-the-station",
+    "href": "cvs.html#ending-the-station",
+    "title": "Cardiovascular checklist",
+    "section": "Ending the station",
+    "text": "Ending the station\n\n\nI will auscultate lung bases for crackles (Heart failure - Pulmonary edema)\nI will examine the abdomen for ascites; hepatomegaly, sacral edema\nI will examine lower limb for edema, ulcers, pulses",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Cardiovascular checklist</span>"
+    ]
+  },
+  {
+    "objectID": "rs.html",
+    "href": "rs.html",
+    "title": "Respiratory checklist",
+    "section": "",
+    "text": "WIPPER and the intro",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Respiratory checklist</span>"
+    ]
+  },
+  {
+    "objectID": "rs.html#wipper-and-the-intro",
+    "href": "rs.html#wipper-and-the-intro",
+    "title": "Respiratory checklist",
+    "section": "",
+    "text": "Introduce yourself and shake hands\nWashing of hands and appropriate hand hygiene\nAsking for permission\nEnsuring the room’s privacy\nEnsuring the environmental warmth and good lighting conditions\nAsking for appropriate exposure (from the waist and above)\nAsking the patient to be in the appropriate position (simi-sitting at 45 degrees in bed)\nRelocating to the right side of the patient\nAsking for a chaperon\n“I have all of my equipment’s”",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Respiratory checklist</span>"
+    ]
+  },
+  {
+    "objectID": "rs.html#general-look-of-the-patient",
+    "href": "rs.html#general-look-of-the-patient",
+    "title": "Respiratory checklist",
+    "section": "General look of the patient",
+    "text": "General look of the patient\n\nConsciousness, alertness and orientation of the patient to place, time and person (Asking the 3 questions) - in RS, disorientation is a sign for CO2 retention, it causes confusion (Hypercapnia)\nCommenting on the patient’s position and comfort\nCommenting on the patient’s external devices status (No oxygen masks, nebulizers etc.)\nCommenting on respiratory rate (Not tachypneic), respiratory distress (Mention these 2 signs)\n\nNo apparent use of accessory muscles for breathing like sternocleidomastoid, trapezius and scalene)\n\nNo Indrawing of intercostal spaces\n\nCommenting on cyanosis\nNo abnormal sounds\nNo abnormal odors",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Respiratory checklist</span>"
+    ]
+  },
+  {
+    "objectID": "rs.html#vital-signs",
+    "href": "rs.html#vital-signs",
+    "title": "Respiratory checklist",
+    "section": "Vital signs",
+    "text": "Vital signs\n\nMake sure you know the 6 vital signs\nWhat is pulsus paradoxus?\nPulsus paradoxus is a more marked inspiratory decrease in arterial pressure exceeding 10 mmHg\nBMI is vital in respiratory system, obese patients may get obstructive sleep apnea\nWeight loss in COPD patients increases risk of morbidities (++inflammatory cytokines = ++metabolic rate)",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Respiratory checklist</span>"
+    ]
+  },
+  {
+    "objectID": "rs.html#hands-examination",
+    "href": "rs.html#hands-examination",
+    "title": "Respiratory checklist",
+    "section": "Hands examination",
+    "text": "Hands examination\nStarting with the still hand\n\nNo deformities / amputations\nNo palmar erythema\nNo pallor\nNo scars, swellings and no visible masses\nNo tar staining\nNo muscle wasting (thenar and hypothenar)\n\nMoving on to the nails\n\nNo clubbing (May be asked to do the 3 tests, nail bed angle / schamroth’s window / fluctuations)\nNo nail deformities like yellow nail syndrome\n\nHand palpation and radial pulse\n\nAfter doing the usual for palpation; check temperature + dryness/sweatiness\nTest for HPOA (Hypertrophic pulmonary osteoarthropathy) (Wrist tenderness)\nTest for Capillary refill (1 minute pressure on the nail, refill in &lt;2 seconds)\nCheck radial pulse\n\nEnd this section by examining for tremor\n\nTest for fine tremor\nTest for asterixis (Flapping tremor) ~ (CO2 retention)",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Respiratory checklist</span>"
+    ]
+  },
+  {
+    "objectID": "rs.html#face-examination",
+    "href": "rs.html#face-examination",
+    "title": "Respiratory checklist",
+    "section": "Face examination",
+    "text": "Face examination\n\nComment on having no plethoric face\nComment on having no face swelling\n\nBy examining the eye, make these 3 comments:\n\nNo jaundice (Examining the sclera)\nNo pallor (Examining the color of conjunctiva)\nNo conjunctival edema\nCheck for Horner syndrome (3 signs; ptosis, meiosis, anhidrosis)\nNo nasal flaring\nNo pursed lips\nComment on cyanosis (Peripheral on lips, central under the tongue)\nComment on good oral and dental hygiene",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Respiratory checklist</span>"
+    ]
+  },
+  {
+    "objectID": "rs.html#neck-examination",
+    "href": "rs.html#neck-examination",
+    "title": "Respiratory checklist",
+    "section": "Neck examination",
+    "text": "Neck examination\n\nNo scars, swellings, visible masses\nNo visible dilated veins\nMention examining the JVP (SKIP)\nMention examining the cervical lymph nodes (SKIP)",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Respiratory checklist</span>"
+    ]
+  },
+  {
+    "objectID": "rs.html#chest-inspection",
+    "href": "rs.html#chest-inspection",
+    "title": "Respiratory checklist",
+    "section": "Chest Inspection",
+    "text": "Chest Inspection\nFirst, relocate to the foot of the bed\n\nComment on symmetrical elliptical chest in cross section (Shape)\nBefore chest expansion, ask the patient to **take a deep breath first**!\nComment on bilaterally symmetrical chest expansion\nNo chest deformities (kyphosis, scoliosis, pectus carinatum, pectus excavatum, barrel chest)\nNormal bilaterally symmetrical breathing pattern that’s Abdomeno-Thoracic\nPemberton sign (raise both of your hands, wait for facial plethora) to check for SVC obstruction\n\nFrom the right side of the patient\n\nNo Scars, swellings, visible masses\nNo skin lesions ~ Subcutaneous nodules (Malignancy)\nNo visible dilated veins\nNormal hair distribution\nCheck the axilla too!!!!",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Respiratory checklist</span>"
+    ]
+  },
+  {
+    "objectID": "rs.html#chest-palpation",
+    "href": "rs.html#chest-palpation",
+    "title": "Respiratory checklist",
+    "section": "Chest Palpation",
+    "text": "Chest Palpation\nDo the usuals for any palpation and then;\n\nGeneral palpation:\n\n\nPalpate using the palm of the hand around the chest\n\nMention that you found:\n\nNo tenderness\nNo subcutaneous emphysema\nNo palpable masses\n\n\nUpper mediastinum palpation:\n\n\nUsing 3 fingers, check for tracheal deviation (comment that it’s centralized)\nAsk the patient to take a deep inspiration, to check for tracheal tug\nComment on no tracheal tug\nMeasure the crico-sternal distance (Normally; 3 to 4 fingers)\n\n\nLower mediastinum palpation:\n\n\nUsing palm of the hand at first, then two fingers; locate the Apex beat\nAfter locating it, start from the sternal angle, horizontal with 2nd intercostal space, count and mention the position of apex beat (Normal pos is in 5th intercostal space, mid clavicular line)\nMention that it’s gently-tapping apex beat! / gently raises the pulsating finger!\nUsing heel of the hand; putting it in the lower-left sternal angle; locate the right ventricular heave, should be negative (sign of severe pulmonary hypertension)\n\n\nLast tests\n\n\nTest for tactile vocal fremitus by using palm of the hand on 4 points anteriorly, 4 points posteriorly, 3 points laterally. (SAY اربعة واربعين)\nComment on normal bilaterally symmetrical tactile vocal fremitus\nTest for chest expansion, upper and lower anteriorly\nTest for chest expansion, only once posteriorly\n\nNormal chest expansion is around 2.5cm on each side!\n\nComment on normal bilaterally symmetrical chest expansion",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Respiratory checklist</span>"
+    ]
+  },
+  {
+    "objectID": "rs.html#chest-percussion",
+    "href": "rs.html#chest-percussion",
+    "title": "Respiratory checklist",
+    "section": "Chest Percussion",
+    "text": "Chest Percussion\nPercuss bilaterally for each spot;\n\nStart percussing for the lung apex (left hand pointing posteriomedial)\nPercuss on the clavicle heads with only your right middle finger\nPercuss from the 2nd intercostal space and keep going space by space\nAnteriorly and on the right, find the liver’s level\nPercuss both lateral sides of the chest\nPercuss posteriorly (`Ask patient to hug a magical pillow!)\nCalculate diaphragmatic excursion on each side! (Remember what we ask the patient for ~ deep inspiration etc) - normal distance 5-8cm\n\nComment on having normal, bilaterally symmetrical resonant percussion note",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Respiratory checklist</span>"
+    ]
+  },
+  {
+    "objectID": "rs.html#chest-auscultation",
+    "href": "rs.html#chest-auscultation",
+    "title": "Respiratory checklist",
+    "section": "Chest Auscultation",
+    "text": "Chest Auscultation\nGet your stethoscope ready! set it to use the diaphragm (large one), test that by GENTLY tapping it, WARM it by rubbing it with your hand\n\nAsk the patient to face the other side (his left side; you’re on the right side right? wait right?!)\nAsk the patient to take a deep inspiration and expiration every time the stethoscope touches him (from the mouth and not the nose)\nListen to chest sounds using diaphragm of stethoscope on the lung apex, anterior chest, lateral and posterior chest (again, bilaterally on each spot)\nComment on normal bilaterally symmetrical vesicular breathing sound with inspiration phase longer than expiration\nComment on good bilateral air entry\nComment on having no added sounds (examples; wheeze, crackles, pleural rub)\n\nVocal resonance (Non-tactile)\n\nListen to the chest again, same positions but instead of deep insp/exp ask the patient to say اربعة واربعين\nComment on normal bilateral vocal resonance\n\nWhispered pectoriloquy\n\nListen to the chest again, same positions but instead of deep insp/exp ask the patient to WHISPER (يهمس اربعة واربعين)\nComment on hearing no whispering pectoriloquy\n\nAeogophony\n\nListen to the chest again, same positions but instead of deep insp/exp ask the patient to say E\nComment on hearing no aeogophony",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Respiratory checklist</span>"
+    ]
+  },
+  {
+    "objectID": "rs.html#ending-the-station",
+    "href": "rs.html#ending-the-station",
+    "title": "Respiratory checklist",
+    "section": "ENDING the station!",
+    "text": "ENDING the station!\n\nI would like to request ENT examination for my patient to check his upper airways\nI would like to examine the abdomen for hepato-spleenomegaly and ascitis\nI would like to examine lower limbs for edema, erythema nodosum, signs of DVT",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Respiratory checklist</span>"
+    ]
+  },
+  {
+    "objectID": "gastrointestinal.html",
+    "href": "gastrointestinal.html",
+    "title": "Gastrointestinal checklist",
+    "section": "",
+    "text": "WIPPER and the intro",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Gastrointestinal checklist</span>"
+    ]
+  },
+  {
+    "objectID": "gastrointestinal.html#wipper-and-the-intro",
+    "href": "gastrointestinal.html#wipper-and-the-intro",
+    "title": "Gastrointestinal checklist",
+    "section": "",
+    "text": "Introduce yourself and shake hands\nWashing of hands and appropriate hand hygiene\nAsking for permission\nEnsuring the room’s privacy\nEnsuring the environmental warmth and good lighting conditions\nAsking for appropriate exposure (from the xiphisternum to the symphysis pubis) (nipples to mid thigh originally)\nAsking the patient to be in the appropriate position (flat with \\(1\\) or \\(2\\) pillows ~ around \\(10-15\\) degrees)\nRelocating to the right side of the patient\nAsking for a chaperon\n“I have all of my equipment’s”",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Gastrointestinal checklist</span>"
+    ]
+  },
+  {
+    "objectID": "gastrointestinal.html#general-look-of-the-patient",
+    "href": "gastrointestinal.html#general-look-of-the-patient",
+    "title": "Gastrointestinal checklist",
+    "section": "General look of the patient",
+    "text": "General look of the patient\n\nConsciousness, alertness and orientation of the patient to time, place and person (After asking the \\(3\\) questions)\nComment on the patient’s position and comfort\nComment on the patient’s external devices status, such as ~ stomas, drains, catheters, etc\nPatient is not in respiratory distress, not tachycardic, if he’s cachectic or obese\nNo skin redundancy",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Gastrointestinal checklist</span>"
+    ]
+  },
+  {
+    "objectID": "gastrointestinal.html#vital-signs",
+    "href": "gastrointestinal.html#vital-signs",
+    "title": "Gastrointestinal checklist",
+    "section": "Vital signs",
+    "text": "Vital signs\n\nMake sure you know the \\(6\\) vital signs\nTake height and weight to calculate BMI and assess nutritional status of the pt",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Gastrointestinal checklist</span>"
+    ]
+  },
+  {
+    "objectID": "gastrointestinal.html#hands",
+    "href": "gastrointestinal.html#hands",
+    "title": "Gastrointestinal checklist",
+    "section": "Hands",
+    "text": "Hands\nStarting with a quick glance at the nails:\n\nNo finger clubbing\nNo koilonychia (IDA), leukonychia (Hypoalbuminemia)\n\nMoving to the still-hand-examination:\n\nNo dupuytren’s contracture (Alcohol related chronic liver diseases)\nNo muscle wasting\nNo tar stain\nNo palmar erythema\nNo pallor\nNo I.V drug abusing marks\n\nMoving to the palpation part of hand examination + tests:\n\nDo the usuals for palpation, then palpate hand’s temperature and comment on dryness/sweatiness (Bilaterally)\nTest for flapping tremor (Asterixis) (Don’t apply resistance!!)",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Gastrointestinal checklist</span>"
+    ]
+  },
+  {
+    "objectID": "gastrointestinal.html#face",
+    "href": "gastrointestinal.html#face",
+    "title": "Gastrointestinal checklist",
+    "section": "Face",
+    "text": "Face\nEyes;\n\nAsk the patient to look down and retract upper eyelid to expose sclera {scleral icterus}, No jaundice\nDo the opposite of the previous tick, examine conjunctiva for pallor\n\nCheeks and lips;\n\nNo visible sialadenitis or sialadenosis (Parotid swellings; chronic alcohol abuse, bulimia nervosa)\nNo spider nevi (Better mentioned on chest!!)\nNo aphthous ulcers (Celiac, IBD but m/c idiopathic)\n\nMouth;\n\nNo angular cheilitis (Iron deficiency)\nNo atrophic glossitis (Iron deficiency)\nNo beefy tongue (deficiency of B12/folate)\nNo halitosis (Fetor hepaticus (Chronic liver diseases), alcohol, uremia, ketones..)\nComment on good oral hygiene",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Gastrointestinal checklist</span>"
+    ]
+  },
+  {
+    "objectID": "gastrointestinal.html#neck",
+    "href": "gastrointestinal.html#neck",
+    "title": "Gastrointestinal checklist",
+    "section": "Neck",
+    "text": "Neck\nCheck for:\n\nLeft supraclavicular node enlargement (Troisier’s sign) (Gastric, pancreatic CA)\nWidespread lymphadenopathy, hepatosplenomegaly → (Lymphoma)",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Gastrointestinal checklist</span>"
+    ]
+  },
+  {
+    "objectID": "gastrointestinal.html#chest",
+    "href": "gastrointestinal.html#chest",
+    "title": "Gastrointestinal checklist",
+    "section": "Chest",
+    "text": "Chest\n\nComment on normal hair distribution (hair loss in CLD)\nNo scratch marks\nNo spider nevi\nNo gynecomastia (Male) / breast atrophy (Female)",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Gastrointestinal checklist</span>"
+    ]
+  },
+  {
+    "objectID": "gastrointestinal.html#abdominal-exam",
+    "href": "gastrointestinal.html#abdominal-exam",
+    "title": "Gastrointestinal checklist",
+    "section": "Abdominal Exam",
+    "text": "Abdominal Exam\nIf this was your osce station, proceed with WIPPER, vital signs and then directly;\n\nInspection; Foot of the bed\nComment on 3 things;\n\nContour (Flat, Protuberant,Scaphoid) ~ abdomin might be filled with the 5F’s and Symmetry\nUmbilicus (Normally it’s centrally located, inverted) (Can be shifted or everted if abdominal pressure is increased)\nAsk the patient to breath, comment that abdomen moves with respiration (It may not move in case of acute abdomen)\n\n\n\nInspection; Right side of the pt\n5 S’s, 2 P’s, 1 D, 1 B, and hair\n\nNo scars, swellings, skin lesions\nNo stomas, striae\nNo visible peristalsis (RIF)\nNo visible pulsations\nNo visible dilated veins (Caput medus)\nNo bruising\nNormal hair distribution\n\nManeuvers;\nAsk the patient to cough facing his left side while looking at his hernial orifices\n\nComment on no cough impulse / no bulging masses\n\nAsk the patient to raise his head يرفع حاله (Don’t apply resistance!!)\n\nComment on no divercation of recti\n\n\n\nPalpation\nFirst, as always, usuals of palpation (hand hygiene, warmth, permission, ask about pain, hold eye to eye contact)\nSecond!! SIT ON THE CHAIR\nLight\n\nComment that you’re doing light palpation to gain pt’s confidence.\nGently! palpate the 9 regions\nComment “Soft and lax abdomin, no guarding, no superficial masses, no superficial tenderness”\n\nDeep\n\nDeeply palpate 9 regions of abdomin\nComment “No deep masses, No deep tenderness”\nMention testing for Murphy’s sign and Rebound tenderness\n\nOur prof’s tips after finishing palpation;\n\nStart by examining organs, with each organ, palpate then percuss directly, and we do every one of them while asking pt to breath (Lead his respiration, ask to inhale and exhale)\nOrient your hands by keeping the fingers parallel to the rib cage\nNormal liver span is 6-12cm\nSpleen → Percuss it only on 9,10,11th ribs, it’s dull and non-ballottable normally. During spleen’s maneuver, after rolling the patient with your left hand, start from the umbilicus to save time.\n\nBack to the steps!\n\n\nLIVER; palpation\n\nPlace your hand on RIF, parallel to rib cage, ask the patient to mouth-breath, ask to inspirate → push deep, ask to exhale → release, moving 1cm at a time until you get to either the liver edge or rib cage.\n\nYou have 2 choices,\nif you found the edge; - [ ] Ask the patient to hold his hand on the point and comment; smooth, sharp, non tender liver edge\nif you didn’t, you’ll have to percuss in upward direction afterwards.\n\n\nLIVER; percussion\n\nAsk the patient to hold his breath after full expiration.\nStarting from 2nd intercostal space, percuss downwards until the tone changes from resonant to dull indicating highest point of liver span\nmeasure from this point to the other point the patient is holding (6-12cm is normal liver span) and comment on it’s span and no hepatomegaly\n(Percuss upward if u didn’t feel liver edge, look for the point of tone change from tympanic to dull (no breathing required), measure..\n\n\n\nSpleen; palpation\n\nAgain, start from RIF, parallel to left rib cage, and go diagonally 1 cm at a time, do same steps of liver including breathing, but here you’ll 100% not feel the spleen as its normally impalpable\nAsk the patient to roll towards you and hold him with your left hand\nRestart palpating from the umbilicus region\n\n\n\nSpleen; percussion\n\nOnly percuss on 9,10,11th ribs mid axillary and comment on normal dullness, no palpable spleen.\n\n\n\nKidney; palpation (3 tests)\n\nBimanual test: left hand is always below, palpate by right hand over the flanks, again just like other organs, ask the patient to breath.\nBallottement test: just after bimanual test, pump using the left hand that’s below the flank, and feel the kidney with the right hand\nComment on palpable, ballottable kidney, not tender, not enlarged\nAsk the patient to sit, fist his costovertebral angle twice, while holding eye-eye contact to assess renal angle tenderness\nComment on no renal angle tenderness\n\n\n\nKidney; percussion (retro peritoneal organ, cannot percussion it (resonant tone)\n\nPercuss bilaterally pt’s flanks\nComment on resonant kidney percussion\nPercuss the urinary bladder ~ Dull for full bladder, tympanic for empty one (pelvic organ when empty)",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Gastrointestinal checklist</span>"
+    ]
+  },
+  {
+    "objectID": "gastrointestinal.html#ascites-assessment",
+    "href": "gastrointestinal.html#ascites-assessment",
+    "title": "Gastrointestinal checklist",
+    "section": "Ascites assessment",
+    "text": "Ascites assessment\n3 tests, 2 done, 1 mentioned\n1- Shifting dullness; (best for moderate ascites, will miss massive ascites)\n\nStart below xiphisternum, percussing with fingers horizontal, and find a very loud tympanic percussion note to help you.\nfrom that point, rotate finger to be vertical and start going laterally (towards you, for easier operation) until you find a dull spot\nAsk the patient to roll while holding your hand (To his left side) (mention that you will wait 15 seconds but don’t actually wait)\npercuss again, it should still be dull normally\ncomment on no shifting dullness\n\n2- Transmitted thrill (positive only in massive ascites)\n\nAsk the patient to put edge of his hand on the midline, place one of your hands flat on a side, and with the other one, flick a finger against its side, if you feel nothing on the flat hand; (DO IT BILATERALLY)\nmention no transmitted thrill\n\n3- Mention succussional splash test; don’t actually do it!!",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Gastrointestinal checklist</span>"
+    ]
+  },
+  {
+    "objectID": "gastrointestinal.html#auscultation",
+    "href": "gastrointestinal.html#auscultation",
+    "title": "Gastrointestinal checklist",
+    "section": "Auscultation",
+    "text": "Auscultation\n3 things to auscultate for; (All using diaphragm)\n1- Bowel sounds;\n\nPut the diaphragm on paraumbilical areas\nComment on present bowel sounds (Normally, if you didn’t hear any, you’d wait up-to 2 minutes)\n\n2- Bruits\n\nAbove umbilicus → Aortic bruit\nComment on no aortic bruit\n2cm above, 2cm lateral to umbilicus → Renal artery bruit\nComment on no renal artery bruit\n2cm below, 2cm lateral to umbilucus → Iliac artery bruit\nComment on no iliac artery bruit\n\n3- Friction rub over organs;\n\nRUQ for liver → No friction rub\nSpleen area → No friction rub\nKidney area → No friction rub",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Gastrointestinal checklist</span>"
+    ]
+  },
+  {
+    "objectID": "gastrointestinal.html#ending-the-station",
+    "href": "gastrointestinal.html#ending-the-station",
+    "title": "Gastrointestinal checklist",
+    "section": "Ending the station",
+    "text": "Ending the station\n\nI will examine the external genitalia (we do that to assess genitalia atrophy in case of chronic liver diseases)\nI will perform per-rectal examination Melena\nLower limbs for edema CLD\nSacral edema CLD\nPyoderma gangrenosum IBD\nAuscultate femoral artery for its bruit\nHernial orifices\n\nTHE END",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Gastrointestinal checklist</span>"
+    ]
+  },
+  {
+    "objectID": "cld.html",
+    "href": "cld.html",
+    "title": "CLD stigmata checklist",
+    "section": "",
+    "text": "WIPPER and the intro\nDeeply focus on points in bold.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>CLD stigmata checklist</span>"
+    ]
+  },
+  {
+    "objectID": "cld.html#wipper-and-the-intro",
+    "href": "cld.html#wipper-and-the-intro",
+    "title": "CLD stigmata checklist",
+    "section": "",
+    "text": "Introduce yourself and shake hands\nWashing of hands and appropriate hand hygiene\nAsking for permission\nEnsuring the room’s privacy\nEnsuring the environmental warmth and good lighting conditions\nAsking for appropriate exposure (from the xiphisternum to the symphysis pubis) (nipples to mid thigh originally)\nAsking the patient to be in the appropriate position (flat with \\(1\\) or \\(2\\) pillows ~ around \\(10-15\\) degrees)\nRelocating to the right side of the patient\nAsking for a chaperon\n“I have all of my equipment’s”",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>CLD stigmata checklist</span>"
+    ]
+  },
+  {
+    "objectID": "cld.html#general-look-of-the-patient",
+    "href": "cld.html#general-look-of-the-patient",
+    "title": "CLD stigmata checklist",
+    "section": "General look of the patient",
+    "text": "General look of the patient\n\nConsciousness, alertness and orientation of the patient to time, place and person (After asking the \\(3\\) questions)\nComment on the patient’s position and comfort\nComment on the patient’s external devices status, such as ~ stomas, drains, catheters, etc\nPatient is not in respiratory distress, not tachycardic, if he’s cachectic or obese",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>CLD stigmata checklist</span>"
+    ]
+  },
+  {
+    "objectID": "cld.html#vital-signs",
+    "href": "cld.html#vital-signs",
+    "title": "CLD stigmata checklist",
+    "section": "Vital signs",
+    "text": "Vital signs\n\nMake sure you know the \\(6\\) vital signs\nTake height and weight to calculate BMI and assess nutritional status",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>CLD stigmata checklist</span>"
+    ]
+  },
+  {
+    "objectID": "cld.html#hands",
+    "href": "cld.html#hands",
+    "title": "CLD stigmata checklist",
+    "section": "Hands",
+    "text": "Hands\nStarting with a quick glance at the nails:\n\nNo finger clubbing\nNo koilonychia (IDA), leukonychia (Hypoalbuminemia)\n\n[Mention Terry’s Nails, type of apparent leukonychia, characterized by ground glass opacification of nearly the entire nail]\n\n\n\nTerry’s Nails\n\n\nMoving to the still-hand examination:\n\nNo dupuytren’s contracture (Alcohol-related CLD)\nNo muscle wasting\nNo palmar erythema\nNo Hypertrophic osteoarthropathy (clubbing + periostitis of hand joints)\nNo marks of I.V drug abuse\n\nPalpation + tests:\n\nPalpate temperature and dryness/sweatiness (bilaterally)\nTest for flapping tremor (Asterixis) (don’t apply resistance!)",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>CLD stigmata checklist</span>"
+    ]
+  },
+  {
+    "objectID": "cld.html#face",
+    "href": "cld.html#face",
+    "title": "CLD stigmata checklist",
+    "section": "Face",
+    "text": "Face\nEyes\n\nRetract upper eyelid → no jaundice\nExamine conjunctiva → no pallor\n\nCheeks & Lips\n\nNo sialadenitis/sialadenosis (parotid swelling; chronic alcohol abuse)\nNo spider nevi (better mentioned on chest)\n\nMouth\n\nNo halitosis (Fetor hepaticus)",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>CLD stigmata checklist</span>"
+    ]
+  },
+  {
+    "objectID": "cld.html#neck",
+    "href": "cld.html#neck",
+    "title": "CLD stigmata checklist",
+    "section": "Neck",
+    "text": "Neck\nNothing specific to CLD stigmata.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>CLD stigmata checklist</span>"
+    ]
+  },
+  {
+    "objectID": "cld.html#chest",
+    "href": "cld.html#chest",
+    "title": "CLD stigmata checklist",
+    "section": "Chest",
+    "text": "Chest\n\nNormal hair distribution (no hair loss)\nNo scratch marks\nNo spider nevi\nNo gynecomastia (male) / breast atrophy (female)",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>CLD stigmata checklist</span>"
+    ]
+  },
+  {
+    "objectID": "cld.html#abdominal-exam",
+    "href": "cld.html#abdominal-exam",
+    "title": "CLD stigmata checklist",
+    "section": "Abdominal Exam",
+    "text": "Abdominal Exam\n\nInspection – Foot of the Bed\n\nContour (flat, protuberant, scaphoid)\nIn CLD → distended abdomen due to ascites\n\n\n\nInspection – Right Side\n\nNo distended veins (Caput medusae)\nNo bruising\n\n\n\nPalpation & Percussion\nTips:\n\nPalpate and percuss organs systematically with respiration.\nNormal liver span: 6–12 cm.\nSpleen → percuss ribs 9–11 (normally dull, non-ballottable).\n\n\n\nLiver – Palpation\n\nStart at RIF, move 1 cm at a time with inspiration/expiration.\nIf found → comment (smooth, sharp, non-tender edge).\n\nIf not found → percuss upwards.\n\n\n\nLiver – Percussion\n\nAsk for breath hold (after full expiration).\nDuring expiration, percuss down from the 2nd intercostal space to the point of dullness.\nMeasure span (6–12 cm normal, no hepatomegaly).\n\n\n\nSpleen – Palpation\n\nStart from RIF diagonally, normally impalpable.\nRoll patient and palpate again from umbilicus.\nImpalpable spleen; no spleenomegaly.\n\n\n\nSpleen – Percussion\n\nPercuss ribs 9–11 → normal dullness.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>CLD stigmata checklist</span>"
+    ]
+  },
+  {
+    "objectID": "cld.html#ascites-assessment",
+    "href": "cld.html#ascites-assessment",
+    "title": "CLD stigmata checklist",
+    "section": "Ascites Assessment",
+    "text": "Ascites Assessment\nThree tests:\n\nShifting dullness\n\nPercuss midline → flank dullness\n\nRoll patient (wait 15s) → no shifting dullness\n\nFluid thrill\n\nHand on midline, flick other side\n\nNo transmitted thrill\n\nSuccussional splash (mention only)",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>CLD stigmata checklist</span>"
+    ]
+  },
+  {
+    "objectID": "cld.html#auscultation",
+    "href": "cld.html#auscultation",
+    "title": "CLD stigmata checklist",
+    "section": "Auscultation",
+    "text": "Auscultation\n\nAuscultate over liver, spleen\n\nNo friction rub",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>CLD stigmata checklist</span>"
+    ]
+  },
+  {
+    "objectID": "cld.html#ending-the-station",
+    "href": "cld.html#ending-the-station",
+    "title": "CLD stigmata checklist",
+    "section": "Ending the Station",
+    "text": "Ending the Station\n\nExamine external genitalia (atrophy)\n\nExamine PR (anorectal varices)\n\nExamine lower limb for edema, hair loss\n\nCheck sacral edema\n\n\nHepatic Encephalopathy\nWe assess grade using West Haven Criteria:\n\n\n\nWest Haven Hepatic Encephalopathy Grading\n\n\nTHE END",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>CLD stigmata checklist</span>"
+    ]
+  },
+  {
+    "objectID": "thyroid.html",
+    "href": "thyroid.html",
+    "title": "Thyroid checklist",
+    "section": "",
+    "text": "WIPPER and the intro",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Thyroid checklist</span>"
+    ]
+  },
+  {
+    "objectID": "thyroid.html#wipper-and-the-intro",
+    "href": "thyroid.html#wipper-and-the-intro",
+    "title": "Thyroid checklist",
+    "section": "",
+    "text": "Introduce yourself and shake hands\nWashing of hands and appropriate hand hygiene\nAsking for permission\nEnsuring the room’s privacy\nEnsuring the environmental warmth and good lighting conditions\nAsking for appropriate exposure (The neck and the upper chest)\nAsking the patient to be in the appropriate position (Sitting)\nRelocating to the right side of the patient\nAsking for a chaperon\n“I have all of my equipment’s”",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Thyroid checklist</span>"
+    ]
+  },
+  {
+    "objectID": "thyroid.html#general-look-of-the-patient",
+    "href": "thyroid.html#general-look-of-the-patient",
+    "title": "Thyroid checklist",
+    "section": "General look of the patient",
+    "text": "General look of the patient\n\nConsciousness, alertness and orientation of the patient to time, place and person (After asking the 3 questions)\nComment on the patient’s position and comfort\nPatient is not in distress, tachypnea or in pain, not obese nor thin\nComment that the patient is showing normal facial expression, no apathy or agitation\nAsk the patient to say his full name\nComment on the patient’s normal clothing for the weather\nComment on normal speech with no hoarseness, no slow or pressured speech",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Thyroid checklist</span>"
+    ]
+  },
+  {
+    "objectID": "thyroid.html#vital-signs",
+    "href": "thyroid.html#vital-signs",
+    "title": "Thyroid checklist",
+    "section": "Vital signs",
+    "text": "Vital signs\n\nMention that you want to check the pulse as tachycardia and atrial fibrillation occur with hyperthyroidism and bradycardia with hypothyroidism\nMention that you will have to check the blood pressure for diastolic/systolic HTN\nMention that you will have to check the BMI for weight gain/loss\nyou might be asked to mention the rest of the vital signs",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Thyroid checklist</span>"
+    ]
+  },
+  {
+    "objectID": "thyroid.html#hands",
+    "href": "thyroid.html#hands",
+    "title": "Thyroid checklist",
+    "section": "Hands",
+    "text": "Hands\nInspect for; palm and dorsum\n\nNo palmar erythema\nNo thenar/hypothenar muscle wasting\nNo vitiligo\nNormal hair distribution\nNo dry and course skin\n\nNail changes;\n\nNo finger clubbing\nNo onycholysis\nNo thyroid acropachy\nNo brittle nails\nDo the usuals for palpation, check and comment on hand’s temperature, dryness/sweatiness\n\nTests;\n\nAsk the patient to extend his arms (يمد ايديه)\nComment on no fine tremor\nDo the carpal tunnel test! (You can find it here in the mss checklist)",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Thyroid checklist</span>"
+    ]
+  },
+  {
+    "objectID": "thyroid.html#thyroid",
+    "href": "thyroid.html#thyroid",
+    "title": "Thyroid checklist",
+    "section": "Thyroid",
+    "text": "Thyroid\n\nInspection\n\nAsk the patient to hyperextend his neck, look at his thyroid\nNo scars, swellings, skin lesions\nNo asymmetry\nNo visible dilated veins\nAsk the patient to swallow\nMention that thyroid moves with swallowing\nAsk the patient to protrude his tongue\nMention that thyroid doesn’t move (No thyroglossal cyst)\nAsk the patient to raise his arms, notice any facial congestions (Pemberton’s sign)\nComment negative Pemberton’s sign\n\n\n\nPalpation\n\nAs always, do the usuals before palpation\nStand behind the patient, ask him to slightly look down (Neck flexion)\nPalpate the thyroid\nComment on symmetrical thyroid lobes\nComment on no tenderness (Make sure to hold eye contact to notice any tenderness)\nComment on no nodules or masses\nComment on no enlargement\nFeel for thrills, comment on no thrills\nMention palpating cervical lymph nodes! (should be skipped)\nAsk the patient to swallow, comment on thyroid moves while swallowing\nAsk the patient to protrude his tongue, comment on no movement\n\n\n\nTracheal tests\n\nUsing 3 fingers, check for tracheal deviation (comment that it’s centralized)\nAsk the patient to take a deep inspiration, to check for tracheal tug\nComment on no tracheal tug\nMeasure the crico-sternal distance (Normally; 3 to 4 fingers)\n\n\n\nPercussion\n\nPercuss over the clavicle’s head, note if there’s dullness\n\ndullness = retrosternal goiter\n\nComment on no dullness, normal resonance\nPercuss over the manubrium too, and comment no dullness, normal resonance\n\n\n\nAuscultation\n\nAuscultate for thyroid bruit\nMention no thyroid bruit\nAuscultate for murmurs\nMention** no midsystolic murmur**",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Thyroid checklist</span>"
+    ]
+  },
+  {
+    "objectID": "thyroid.html#finishing-off-your-station",
+    "href": "thyroid.html#finishing-off-your-station",
+    "title": "Thyroid checklist",
+    "section": "Finishing off your station!",
+    "text": "Finishing off your station!\nI want to check/examine for;\n\nProximal myopathy (Testing for it would be by asking the patient to stand up with his hands on his chest\nTest for deep tendon reflexes (in hypothyroidism = delayed relaxation, in hyperthyroidism = hyperreflexia)\nPretibial myxedema of grave’s\nAnkle swelling of heart failure\nLower limb skin if its dry and coarse\n\nTHE END",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Thyroid checklist</span>"
+    ]
+  },
+  {
+    "objectID": "mss.html",
+    "href": "mss.html",
+    "title": "Hand and Wrist checklist",
+    "section": "",
+    "text": "Rules:",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Hand and Wrist checklist</span>"
+    ]
+  },
+  {
+    "objectID": "mss.html#rules",
+    "href": "mss.html#rules",
+    "title": "Hand and Wrist checklist",
+    "section": "",
+    "text": "Look, feel and move :)\nWe don’t say abnormal until we compare right and left!",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Hand and Wrist checklist</span>"
+    ]
+  },
+  {
+    "objectID": "mss.html#wipper-and-the-intro",
+    "href": "mss.html#wipper-and-the-intro",
+    "title": "Hand and Wrist checklist",
+    "section": "WIPPER and the intro",
+    "text": "WIPPER and the intro\n\nIntroduce yourself and shake hands\nWashing of hands and appropriate hand hygiene\nAsking for permission\nEnsuring the room’s privacy\nEnsuring the environmental warmth and good lighting conditions\nAsking for appropriate exposure (One joint above, one joint below)\nAsking the patient to be in the appropriate position (Sitting upright with a pillow under his hands)\nRelocating to the right side of the patient\nAsking for a chaperon\n“I have all of my equipment’s”",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Hand and Wrist checklist</span>"
+    ]
+  },
+  {
+    "objectID": "mss.html#vital-signs",
+    "href": "mss.html#vital-signs",
+    "title": "Hand and Wrist checklist",
+    "section": "Vital signs:",
+    "text": "Vital signs:\n\nMake sure you know the 6 vital signs",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Hand and Wrist checklist</span>"
+    ]
+  },
+  {
+    "objectID": "pad.html",
+    "href": "pad.html",
+    "title": "Peripheral Arterial Disease checklist",
+    "section": "",
+    "text": "WIPPER and the Intro",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Peripheral Arterial Disease checklist</span>"
+    ]
+  },
+  {
+    "objectID": "pad.html#wipper-and-the-intro",
+    "href": "pad.html#wipper-and-the-intro",
+    "title": "Peripheral Arterial Disease checklist",
+    "section": "",
+    "text": "Introduce yourself and shake hands\n\nWashing of hands and appropriate hand hygiene\n\nAsking for permission\n\nEnsuring the room’s privacy\n\nEnsuring the environmental warmth and good lighting conditions\n\nAsking for appropriate exposure (from the waist and above and from the knees and down)\n\nAsking the patient to be in the appropriate position (semi-sitting at 45 degrees in bed)\n\nRelocating to the right side of the patient\n\nAsking for a chaperon\n\n“I have all of my equipment’s”",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Peripheral Arterial Disease checklist</span>"
+    ]
+  },
+  {
+    "objectID": "pad.html#general-look-of-the-patient",
+    "href": "pad.html#general-look-of-the-patient",
+    "title": "Peripheral Arterial Disease checklist",
+    "section": "General Look of the Patient",
+    "text": "General Look of the Patient\n\nConsciousness, alertness and orientation of the patient to time, place and person (After asking the 3 questions)\n\nComment on the patient’s position and comfort\n\nComment on no obvious shortness of breath (PE)\n\nComment on the patient’s external devices such as any mobility aids (Wheelchairs, walking aids)\n\nComment on any Medical equipment’s such as any dressings or limb prosthesis\n\nComment on cyanosis\n\nComment on no limb pallor",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Peripheral Arterial Disease checklist</span>"
+    ]
+  },
+  {
+    "objectID": "pad.html#vital-signs-mention",
+    "href": "pad.html#vital-signs-mention",
+    "title": "Peripheral Arterial Disease checklist",
+    "section": "Vital Signs (Mention)",
+    "text": "Vital Signs (Mention)\n\nMention measuring Blood pressure bilaterally\n\nMake sure you know the 6 vital signs",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Peripheral Arterial Disease checklist</span>"
+    ]
+  },
+  {
+    "objectID": "pad.html#inspection",
+    "href": "pad.html#inspection",
+    "title": "Peripheral Arterial Disease checklist",
+    "section": "Inspection",
+    "text": "Inspection\n\nInspect the upper limbs bilaterally and do not forget the hands and fingers\n\nInspect the lower limbs bilaterally and do not forget the feet and toes, also check the back of the legs + sole\n\nMention no missing limbs or digits, and no scars and no dressings\n\nMention no xanthomata (Hyperlipidema is a major risk factor for PAD)\n\nMention no Tar stain (Smoking is a major risk factor for PAD)\n\nMention no muscle wasting\n\nMention seeing no dry skin, no shiny skin, no hair loss, no thickened or brittle nails\n\nMention no signs of infections such as fungal → between the toes\n\nMention no color changes such as pallor or darker pigmented skin (Lipo-dermato-sclerosis)\n\nMention no gangrene\n\n\n\n\n\n\n\nNote\n\n\n\nGangrene definition\nGross description of a necrotic tissue with mummification and black discoloration.\nWet gangrene is infected, looks black and unclearly demarcated, needs emergent amputation for risk of sepsis.\nDry gangrene is not infected, dark and well demarcated.\nFinger tip necrosis is a sign for Buerger’s disease aka thromboangiitis obliterans.\n\n\n\nMention no ulcers\n\nMention no guttering of veins\n\n\n\n\n\n\n\nNote\n\n\n\nGuttering of veins\nIn a warm room the veins of a normal foot are dilated and full of blood, even when the patient is lying horizontally.\nIn an ischaemic foot the veins collapse and sink below the skin surface to look like pale-blue gutters.\n\n\n\nAsk the patient to move his limbs and mention no paralysis",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Peripheral Arterial Disease checklist</span>"
+    ]
+  },
+  {
+    "objectID": "pad.html#palpation",
+    "href": "pad.html#palpation",
+    "title": "Peripheral Arterial Disease checklist",
+    "section": "Palpation",
+    "text": "Palpation\n\nDo the usuals for palpation\n\nGenerally and gently palpate the limbs for any tenderness or crepitus (Gas gangrene)\n\nMention no tenderness or crepitus\n\nPalpate with the dorsum of your hand to check temperature of upper and lower limbs, check on 3 points per limb, bilateral limbs at a time, normally you should feel symmetrically warm limbs.\n\nCheck capillary refill time by applying 5 seconds of pressure to a digit’s nail, then release, notice its returning to its normal color (Normally takes &lt;3 seconds)\n\n\nAll Pulses (Compare right and left!)\n\nRadial pulse; using 3 fingers, lateral to flexor carpi radialis\n\nCheck both radial pulses simultaneously to assess “Radio-radial delay”, a sign for aortic dissection\n\nCheck radial and femoral pulses simultaneously to assess Radio-femoral delay, a sign for aortic coarctation (ONLY MENTION)\n\nBrachial pulse, using 2 fingers, assess the brachial pulse medial to the biceps tendon in antecubital fossa (Bilaterally)\n\nUsing 2 fingers, gently assess the carotid pulse anterior to sternocleidomastoid near the jaw\n\nCheck posterior tibial pulse (posterior to medial malleolus, 1/3 distance between medial malleolus and calcaneus | 1 cm behind, 1 cm below medial malleolus (Macleod))\n\nCheck dorsalis pedis pulse (lateral to extensor hallucis longus, against navicular bone)\n\nAlso mention popliteal pulse just in case :)\n\n\n\nSpecial - Buerger’s Test\n\nWith the patient lying supine, stand at the end of the bed and raise both of the patients’ legs to 45 degrees and keep them for 1-2 minutes observing the colors of them\n\nAsk the patient to sit on the edge of the bed with his legs hanging\n\nNotice how the legs first turn blue due to the passage of deoxygenated blood through the ischemic tissue then they will become red (Reactive hyperemia)\n\n\n\n\n\n\n\nNote\n\n\n\nInterpretation of Buerger’s Test\n- In a healthy individual, the legs should remain pink even up to 90°.\n- Development of pallor indicates inadequate perfusion against gravity.\n- Record the angle of pallor (Buerger’s angle): the lower the angle, the more severe the disease.\n- When sitting, legs may first appear blue (deoxygenated blood in ischemic tissue), then turn red (reactive hyperemia).\nThis indicates ischemia and correlates with delayed capillary filling.\n\n\n\n\n\n\n\n\nNote\n\n\n\nCapillary Filling Time\nAfter elevating the legs, patients should be asked to sit up and dangle their feet over the side of the couch.\nA normal leg and foot will remain a healthy pink colour, whereas an ischaemic leg slowly turns from white (after elevation) to pink and then takes on a suffused purple-red colour.\nThe time taken for the colour of the foot to change from white to pink is the capillary filling time, and depends upon the degree of arterial obstruction.\nIn severe ischaemia it may be as long as 15-30 seconds. A red-purple foot is indicative of severe ischaemia.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Peripheral Arterial Disease checklist</span>"
+    ]
+  },
+  {
+    "objectID": "pad.html#auscultation",
+    "href": "pad.html#auscultation",
+    "title": "Peripheral Arterial Disease checklist",
+    "section": "Auscultation",
+    "text": "Auscultation\n\nMention auscultating over the femoral and carotids and mention no bruit",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Peripheral Arterial Disease checklist</span>"
+    ]
+  },
+  {
+    "objectID": "pad.html#further-investigations-and-theoretical-knowledge",
+    "href": "pad.html#further-investigations-and-theoretical-knowledge",
+    "title": "Peripheral Arterial Disease checklist",
+    "section": "Further Investigations and Theoretical Knowledge",
+    "text": "Further Investigations and Theoretical Knowledge\n\nExamine bilateral blood pressure to assess any discrepancies between the two arms suggestive of aortic dissection\n\nComplete CVS exam\n\nUpper and lower neurological examination\n\nI want to test for thoracic outlet syndrome\n\nRoos stress test\n\n\n\nRoos Stress Test Position\n\n\nAsk the patient to abduct his shoulders to 90 degrees, with maximal external rotation on.\nTest is positive when patient can’t keep this for more than 3 minutes.\n\nAllen’s Test\n\nRaynaud’s\n\nAnkle brachial pressure index\n\n\n\n\n\n\n\nNote\n\n\n\nAnkle Brachial Pressure Index (ABPI)\nIt is a ratio between the blood pressure measured in the ankle and that measured in the brachial artery, used to assess lower limb perfusion.\n\nLeft ABPI = (Highest pressure of either left Post. tibial artery or left dorsalis pedis) / (Highest brachial pressure (R/L))\n\nRight ABPI = (Highest pressure of either right Post. tibial artery or right dorsalis pedis) / (Highest brachial pressure (R/L))\n\nNormal ranges:\n- Normal → \\(0.8 - 1.3\\)\n- Mild or moderate arterial disease → \\(0.5 - 0.79\\) (claudication)\n- Severe arterial disease → \\(&lt;0.5\\) (Rest pain, ulceration, gangrene → critical limb ischemia)\n- Calcified vessels → \\(&gt;1.3\\) (suggestive of DM, vasculitis, atherosclerosis → need duplex US/CT angio)",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Peripheral Arterial Disease checklist</span>"
+    ]
+  },
+  {
+    "objectID": "cne.html",
+    "href": "cne.html",
+    "title": "Cranial Nerve Examination checklist",
+    "section": "",
+    "text": "WIPPER and the Intro",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Cranial Nerve Examination checklist</span>"
+    ]
+  },
+  {
+    "objectID": "cne.html#wipper-and-the-intro",
+    "href": "cne.html#wipper-and-the-intro",
+    "title": "Cranial Nerve Examination checklist",
+    "section": "",
+    "text": "Introduce yourself and shake hands\nWashing of hands and appropriate hand hygiene\nAsking for permission\nEnsuring the room’s privacy\nEnsuring the environmental warmth and good lighting conditions\nAsking for appropriate exposure (Head and neck)\nAsking the patient to be in the appropriate position (Sitting on a chair)\nRelocating to the right side of the patient\nAsking for a chaperon\n“I have all of my equipment’s”",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Cranial Nerve Examination checklist</span>"
+    ]
+  },
+  {
+    "objectID": "cne.html#olfactory-nerve-examination-useless",
+    "href": "cne.html#olfactory-nerve-examination-useless",
+    "title": "Cranial Nerve Examination checklist",
+    "section": "Olfactory Nerve Examination (Useless)",
+    "text": "Olfactory Nerve Examination (Useless)\n\nCheck the nasal passage\nAsk the patient to close his eyes\nClose one nostril to test the other\nAsk the patient to smell (Use scratch and sniff test cards from UPSIT test)\nClose the other nostril and repeat",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Cranial Nerve Examination checklist</span>"
+    ]
+  },
+  {
+    "objectID": "cne.html#optic-nerve-examination",
+    "href": "cne.html#optic-nerve-examination",
+    "title": "Cranial Nerve Examination checklist",
+    "section": "Optic Nerve Examination",
+    "text": "Optic Nerve Examination\n\nInspection\n\nComment on no head tilt\nComment on no facial asymmetry\nComment on no proptosis\nComment on no lid retraction\nDo lid lag test, stand up and ask the patient to follow your finger, move it up and back, bottom and back, and comment on no lid lag\n\n\n\nPalpation\n\nDo the usuals for palpation\nComment on no tenderness over the eyes\n\n\n\nTests to Mention\n\n“I will assess visual acuity using Snellen’s chart”\n“I will assess color vision using Isihara plates”\n“I will assess macular sparing using Amsler’s grid”\n“I will do fundoscopy examination for things like optic disk examination, papilledema etc.”\n\n\n\nPupillary Reflexes Tests\n\nDim the room and check the pupils’ size for anisocorea\nAsk the patient to fixate his eye on a distant point\nGet your torch, slide it horizontally to one eye, notice “Direct” reflex, then look at the other eye for “Indirect/consensual” reflex\nComment on intact direct and indirect pupillary reflexes\nWhile patient is fixating, put your finger ~15cm in front, ask him to focus on it and notice “Convergence”\nComment on normal accommodation reflex\n\n\n\nVisual Field Tests\n\nAsk the patient to look at your eyes\nHold 1 hand at full extent, wiggle fingers and ask if patient sees movement\nTest at 2, 4, 8 and 10 o’clock positions\nComment no homonymous visual field defect\nFor sensory inattention: hold both hands at 2 and 10 o’clock, wiggle one then both\nComment no sensory inattention\n\n\n\nPeripheral Visual Fields (one eye at a time)\n\nPerform 1 eye closing maneuver\nAsk patient to look at your eyes\nTest each quadrant (2,4,8,10 o’clock) with finger wiggling\nTest the other eye\nComment no peripheral visual field defects\n\n\n\nColor Desaturation\n\nShow red object to ensure patient sees it red\nPerform 1 eye closing maneuver\nPlace red object in front of open eye, ask about color\nTest the other eye\nComment “No red desaturation”\n\n\n\nCentral Visual Field\n\nPerform 1 eye closing maneuver\nAsk patient to look at your eyes\nMove red object from side to center until color is noticed\nTest the other eye\nComment no central visual field defects\n\n\n\nBlind Spot\n\nPerform 1 eye closing maneuver\nAsk patient to look at your eyes\nMove red object horizontally until it disappears\nTest the other eye\nComment on normal blind spot size",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Cranial Nerve Examination checklist</span>"
+    ]
+  },
+  {
+    "objectID": "cne.html#ocular-movement-nerves-3rd-4th-6th",
+    "href": "cne.html#ocular-movement-nerves-3rd-4th-6th",
+    "title": "Cranial Nerve Examination checklist",
+    "section": "Ocular Movement Nerves (3rd, 4th, 6th)",
+    "text": "Ocular Movement Nerves (3rd, 4th, 6th)\n\nAsk patient to fix head and only move eyeballs following your finger\nDraw H shape, observe eye movements\nAsk about diplopia and its features if present\nComment on no nystagmus, no diplopia, full range of motion",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Cranial Nerve Examination checklist</span>"
+    ]
+  },
+  {
+    "objectID": "cne.html#trigeminal-nerve",
+    "href": "cne.html#trigeminal-nerve",
+    "title": "Cranial Nerve Examination checklist",
+    "section": "Trigeminal Nerve",
+    "text": "Trigeminal Nerve\n\nSensory\n\nTest light touch on V1,V2,V3 areas bilaterally with cotton-wool\nRepeat with neural tip for superficial pain\nMention testing general sensation on anterior 2/3 of tongue\nComment on intact symmetrical sensation\n\n\n\nMotor\n\nPalpate/inspect temporalis for wasting\nAsk patient to clench teeth, check masseters\nAsk patient to open mouth, inspect for jaw deviation\nComment no muscle wasting, good bulk, no deviation\n\n\n\nReflexes\n\nFor jaw reflex: place finger between lower lip/chin, percuss with hammer\nComment on normal jaw reflex\nMention testing corneal reflex",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Cranial Nerve Examination checklist</span>"
+    ]
+  },
+  {
+    "objectID": "cne.html#facial-nerve",
+    "href": "cne.html#facial-nerve",
+    "title": "Cranial Nerve Examination checklist",
+    "section": "Facial Nerve",
+    "text": "Facial Nerve\n\nMotor\n\nAsk patient to raise eyebrows, assess symmetry (frontalis)\nComment symmetrical wrinkles\nAsk patient to forcefully close eyes against resistance\nComment normal power of orbicularis oculi\nAsk patient to “Blow out your cheeks and don’t let me deflate them”\nComment normal power of buccinator/orbicularis oris\nAsk patient to show teeth (smile)\nComment symmetry and no mouth angle deviation\n\n\n\nSensory\n\nTest touch sensation behind ear\nMention testing taste on anterior 2/3 of tongue\nMention corneal reflex\nAsk about hearing changes (stapedius muscle)",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Cranial Nerve Examination checklist</span>"
+    ]
+  },
+  {
+    "objectID": "cne.html#vestibulocochlear-nerve",
+    "href": "cne.html#vestibulocochlear-nerve",
+    "title": "Cranial Nerve Examination checklist",
+    "section": "Vestibulocochlear Nerve",
+    "text": "Vestibulocochlear Nerve\n\nHearing Tests\n\nStand behind patient, ensure normal hearing first\nClose one ear, whisper at 60cm, ask patient to repeat\nIf needed, whisper at 15cm\n\n\n\nWeber’s Test\n\nTap 512Hz fork, place on forehead midline\nAsk if sound is louder in any ear\nComment negative Weber’s test (no lateralization)\n\n\n\nRinne’s Test\n\nTap 512Hz fork, place on mastoid prominence\nAsk patient to signal when sound stops\nMove fork near ear, ask if sound returns\nComment positive Rinne’s test (air&gt;bone conduction)",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Cranial Nerve Examination checklist</span>"
+    ]
+  },
+  {
+    "objectID": "cne.html#glossopharyngeal-and-vagus-nerves",
+    "href": "cne.html#glossopharyngeal-and-vagus-nerves",
+    "title": "Cranial Nerve Examination checklist",
+    "section": "Glossopharyngeal and Vagus Nerves",
+    "text": "Glossopharyngeal and Vagus Nerves\n\nAsk patient to talk, note no dysphonia/dysarthria\nAsk patient to say “aah”, check uvula\nComment no uvula deviation\nAsk patient to puff cheeks, listen for nasal regurgitation\nComment no nasal regurgitation\nAsk patient to cough (assess for bovine cough)\nMention testing gag reflex\nMention giving water to assess swallowing\nMention testing taste on posterior 1/3 of tongue",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Cranial Nerve Examination checklist</span>"
+    ]
+  },
+  {
+    "objectID": "cne.html#accessory-nerve",
+    "href": "cne.html#accessory-nerve",
+    "title": "Cranial Nerve Examination checklist",
+    "section": "Accessory Nerve",
+    "text": "Accessory Nerve\n\nInspect SCM and trapezius\nComment no wasting/asymmetry in trapezius\nPalpate both muscles for bulk\nComment normal bulk\nTest trapezius power: shrug shoulders against resistance\nComment normal trapezius power\nTest SCM power: turn head against resistance\nTest other SCM\nTest bilateral SCM: look down against chin resistance\nComment normal SCM power",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Cranial Nerve Examination checklist</span>"
+    ]
+  },
+  {
+    "objectID": "cne.html#hypoglossal-nerve",
+    "href": "cne.html#hypoglossal-nerve",
+    "title": "Cranial Nerve Examination checklist",
+    "section": "Hypoglossal Nerve",
+    "text": "Hypoglossal Nerve\n\nAsk patient to open mouth, inspect tongue\nComment no wasting/fasciculations\nAsk patient to protrude tongue, check deviation\nComment no deviation/fasciculations\nAsk patient to move tongue side-to-side quickly\nComment normal movement\nAsk patient to press tongue against cheek, assess power\nComment normal power\nAssess speech with “Yellow lorry” etc.\nComment normal speech\nMention testing swallowing\n\nTHE END",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Cranial Nerve Examination checklist</span>"
+    ]
+  },
+  {
+    "objectID": "miscellaneous.html",
+    "href": "miscellaneous.html",
+    "title": "Miscellaneous",
+    "section": "",
+    "text": "The 3 questions in general look of the patient\n\nDo you know who I am?\nDo you know where you are?\nDo you know what time it is?\n\n\n\nThe 6 vital signs\n\nHeart rate (pulse rate) (\\(60 - 100\\) beat per minute)\nBlood pressure\nRespiratory rate (\\(12-20\\) breath per minute)\nOxygen concentration (SpO₂) (\\(\\geq 95\\%\\) or 88%-92% if COPD)\nBody temperature (*\\(36.5\\leq x \\leq37.2\\))\nPain score out of \\(10\\)\n\n\n\nThe usuals for palpation\n\nMention that your hands are warm and clean (you can also rub your hands together to warm them, re-apply hygiene too)\nAsk about pain in the area you’re about to palpate, hold eye contact and begin\n\n\n\nThe 5F’s of abdominal distension\n\nFetus (Pregnancy)\nFlatus (Any cause of bloating such as IBS..etc)\nFeces (Constipation)\nFluid (Any cause such as ascites of chronic liver disease)\nFat",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Miscellaneous</span>"
+    ]
+  }
+]

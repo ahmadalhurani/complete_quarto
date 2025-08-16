@@ -1,0 +1,139 @@
+---
+title: "Thyroid checklist"
+format: 
+  html:
+    fig-align: left
+---
+![Graves' ophthalmopathy](thyroid1.png)
+
+## WIPPER and the intro
+
+- [ ] Introduce yourself and shake hands
+- [ ] Washing of hands and appropriate hand hygiene 
+- [ ] Asking for permission
+- [ ] Ensuring the room's privacy
+- [ ] Ensuring the environmental warmth and good lighting conditions
+- [ ] Asking for appropriate exposure (**The neck and the upper chest**)
+- [ ] Asking the patient to be in the appropriate position (**Sitting**)
+- [ ] Relocating to the right side of the patient
+- [ ] Asking for a chaperon
+- [ ] "I have all of my equipment's"
+
+## General look of the patient
+
+- [ ] **Consciousness, alertness and orientation** of the patient to time, place and person (After asking the [3 questions](miscellaneous.qmd)) 
+- [ ] Comment on the patient's position and **comfort**
+- [ ] Patient is **not in distress, tachypnea or in pain, not obese nor thin**
+- [ ] Comment that the patient is showing **normal facial expression, no apathy or agitation**
+- [ ] Ask the patient to **say his full name**
+- [ ] Comment on the patient's **normal clothing for the weather**
+- [ ] Comment on **normal speech with no hoarseness, no slow or pressured speech**
+
+## Vital signs
+
+- [ ] Mention that you want to check the pulse as **tachycardia** and **atrial fibrillation** occur with **hyperthyroidism** and **bradycardia** with **hypothyroidism**
+- [ ] Mention that you will have to check the blood pressure for **diastolic/systolic HTN**
+- [ ] Mention that you will have to check the **BMI for weight gain/loss**
+- [ ] you might be asked to mention the [rest of the vital signs](miscellaneous.qmd)
+
+## Hands
+
+**Inspect for; palm and dorsum**
+
+- [ ] No **palmar erythema**
+- [ ] No **thenar/hypothenar muscle wasting**
+- [ ] No **vitiligo**
+- [ ] Normal **hair distribution**
+- [ ] No **dry and course skin**
+
+**Nail changes;**
+
+- [ ] No **finger clubbing**
+- [ ] No **onycholysis**
+- [ ] No **thyroid acropachy**
+- [ ] No **brittle nails**
+- [ ] Do the [usuals for palpation](miscellaneous.qmd), check and comment on **hand's temperature, dryness/sweatiness**
+
+**Tests;**
+
+- [ ] Ask the patient to extend his arms (يمد ايديه)
+- [ ] Comment on no **fine tremor**
+- [ ] Do the **carpal tunnel test**! (You can find it [here](mss.qmd) in the mss checklist)
+
+# Face
+
+- [ ] No **dry or coarse hair, no hair loss**
+- [ ] No **hair loss of last third of eyebrows** (*Hypothyroidism*)
+- [ ] No **periorbital puffiness or myxedema**
+- [ ] No **lid retraction**
+- [ ] Ask the patient to look at your finger without moving his head, test for lid lag (vertically move your finger) 
+- [ ] No **lid lag**
+- [ ] No **exophthalmos**
+- [ ] No **proptosis**
+- [ ] No **Conjunctival redness** (Chemosis)
+- [ ] Test for **Ophthalmoplegia** (H shape)!
+- [ ] Comment on **no diplopia or nystagmus**
+
+## Thyroid
+
+### Inspection
+
+- [ ] Ask the patient to **hyperextend his neck**, look at his thyroid
+- [ ] No **scars, swellings, skin lesions**
+- [ ] No **asymmetry**
+- [ ] No **visible dilated veins**
+- [ ] Ask the patient to swallow 
+- [ ] Mention that **thyroid moves with swallowing**
+- [ ] Ask the patient to protrude his tongue
+- [ ] Mention that **thyroid doesn't move** (*No thyroglossal cyst*)
+- [ ] Ask the patient to raise his arms, notice any facial congestions (**Pemberton's sign**)
+- [ ] Comment **negative Pemberton's sign**
+
+### Palpation
+
+- [ ] As always, do the [usuals before palpation](miscellaneous.qmd)
+- [ ] Stand behind the patient, ask him to slightly look down (Neck flexion)
+- [ ] Palpate the thyroid
+- [ ] Comment on **symmetrical thyroid lobes**
+- [ ] Comment on **no tenderness** (Make sure to hold eye contact to notice any tenderness)
+- [ ] Comment on **no nodules or masses**
+- [ ] Comment on **no enlargement**
+- [ ] Feel for thrills, comment on **no thrills**
+- [ ] Mention **palpating cervical lymph nodes**! (should be skipped)
+- [ ] Ask the patient to swallow, comment on **thyroid moves while swallowing**
+- [ ] Ask the patient to protrude his tongue, comment on **no movement**
+
+### Tracheal tests
+
+- [ ] Using 3 fingers, check for **tracheal deviation** (comment that it's centralized)
+- [ ] Ask the patient to take a deep inspiration, to check for tracheal tug
+- [ ] Comment on **no tracheal tug**
+- [ ] Measure the **crico-sternal distance** (Normally; 3 to 4 fingers)
+
+### Percussion
+
+- [ ] Percuss over the **clavicle's head**, note if there's dullness
+
+*dullness = retrosternal goiter*
+
+- [ ] Comment on **no dullness, normal resonance**
+- [ ] Percuss over the **manubrium** too, and comment **no dullness, normal resonance**
+
+### Auscultation
+
+- [ ] Auscultate for **thyroid bruit**
+- [ ] Mention no thyroid bruit
+- [ ] Auscultate for murmurs 
+- [ ] Mention** no midsystolic murmur**
+
+## Finishing off your station!
+
+I want to check/examine for;
+
+- [ ] **Proximal myopathy** (Testing for it would be by asking the patient to stand up with his hands on his chest
+- [ ] Test for **deep tendon reflexes** *(in hypothyroidism = **delayed relaxation**, in hyperthyroidism = **hyperreflexia**)*
+- [ ] **Pretibial myxedema** of *grave's*
+- [ ] **Ankle swelling** of heart failure
+- [ ] **Lower limb skin** if its *dry and coarse* 
+
+THE END

@@ -1,0 +1,55 @@
+/* Scientific typography with increased sizes */
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;500;600;700&family=Roboto+Mono:wght@500;600&display=swap');
+
+body {
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  font-size: 1.00rem;  /* ~13.5pt equivalent */
+  line-height: 1.65;   /* Slightly increased */
+  color: #333;
+}
+
+/* Headers with proportional sizing */
+h1 {
+  font-weight: 600;
+  font-size: 2.2rem;   /* Increased */
+  color: #2a5496;
+  margin-top: 1.5em;
+}
+h2 {
+  font-weight: 500;
+  font-size: 1.8rem;   /* Increased */
+}
+h3 {
+  font-weight: 500;
+  font-size: 1.5rem;   /* Increased */
+}
+h4 {
+  font-weight: 500;
+  font-size: 1.3rem;   /* Increased */
+}
+
+/* Adjusted bold styling */
+strong, b {
+  font-weight: 600 !important;
+  color: #2c3e50;
+}
+
+/* Code blocks */
+code {
+  font-family: "Roboto Mono", monospace;
+  font-weight: 500;
+  font-size: 1.02rem;  /* Slightly larger than body */
+  background-color: #f8f9fa;
+}
+
+/* Checklist items */
+.task-list-item {
+  padding: 0.35em 0;   /* Slightly increased */
+  font-size: 1.08rem;  /* Slightly larger than body */
+}
+
+/* Tables */
+table {
+  font-size: 1.04rem;  /* Slightly increased */
+}

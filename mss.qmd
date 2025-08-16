@@ -1,0 +1,134 @@
+---
+title: "Hand and Wrist checklist"
+format: 
+  html:
+    fig-align: left
+---
+
+## Rules:
+
+1. Look, feel and move :)
+2. We don't say abnormal until we compare right and left!
+
+## WIPPER and the intro
+
+- [ ] Introduce yourself and shake hands
+- [ ] Washing of hands and appropriate hand hygiene 
+- [ ] Asking for permission
+- [ ] Ensuring the room's privacy
+- [ ] Ensuring the environmental warmth and good lighting conditions
+- [ ] Asking for appropriate exposure (**One joint above, one joint below**)
+- [ ] Asking the patient to be in the appropriate position (**Sitting upright with a pillow under his hands**)
+- [ ] Relocating to the right side of the patient
+- [ ] Asking for a chaperon
+- [ ] "I have all of my equipment's"
+
+## Vital signs:
+
+- [ ] Make sure you know the [6 vital signs](miscellaneous.qmd)
+
+# Look
+
+Look at the palm, dorsum, lateral sides of the hands and in between fingers.
+
+- [ ] No **scars, skin rash, no bruises** :)
+- [ ] No **color changes**; **palmar erythema**, (*raynaud's syndrome*)
+- [ ] No **nail changes**; **nail pitting/brittle nails** ...
+- [ ] No **deformities**; Swan neck / boutonnière/ mallet / Trigger finger / Sausage fingers / dupuytren's contractures (*Alcoholic-CLD*) / Z thumb (*RA*) / Ulnar deviation (*RA*)
+- [ ] No **skin nodules** ~ Bouchard's/Heberden's (*Osteoarthritis*)
+- [ ] No **gouty tophi**
+- [ ] No **visible soft tissue swelling**
+- [ ] No **muscle wasting** (thenar wasting in carpal tunnel syndrome)/ **hypertrophy** / **fasciculations**
+- [ ] While looking at the hand's fingertips, mention **No Calcinosis** (*Systemic Sclerosis*)
+- [ ] Ask the patient to form a fist, mention **No loss of "Hill-Valley-Hill-Valley"** on the dorsal aspect of the hand (*RA*)
+
+Look at the patient's elbow
+
+- [ ] Comment on "No *rheumatoid* nodules"
+
+# Feel
+
+- [ ] Palpate dorsum of the hand to check for **temperature/dryness and sweatiness** (and comment)
+- [ ] **Pinch the skin** of the dorsal aspect of the hand, mention **No thick nor tightening** of the skin found (*Scleroderma-Rodnan score*)
+
+![Scleroderma-Rodnan Score](mss10.png){width=500px height=300px}
+
+- [ ] Check all other joints for **soft tissue swelling and fluctuations** using your 2 thumbs (Wrist joint, MCP, PIP, DIP, don't forget the thumb's 2 joints!)
+- [ ] **Squeeze test** ~ squeeze all MCP joints for **tenderness**
+
+# Move
+
+- [ ] Give the patient 2 fingers and ask him to **squeeze to assess power** of his hands
+- [ ] Comment on normal power
+- [ ] Ask the patient to move his **wrist in all 4 directions** to assess range of motion in his wrist 
+- [ ] Comment on full range of motion 
+- [ ] Ask the patient to move his **thumb in all directions** to assess its range of motion, and ask him to move it against resistance too. 
+- [ ] Ask the patient to count their fingers (**MCP joint flexion maneuver**) 
+- [ ] Test **flexor digitorum profundus** (isolate each finger, and ask to do flexion on **DIP** (extend pip)) and **flexor digitorum superficialis** (isolate each finger, and ask to do flexion on **PIP** (extend MCP))
+- [ ] Ask the patient to form a semi fist and make sure his fingers point towards **scaphoid bone**
+- [ ] **Finkelstein's test**; ask the patient to make fist with thumb tucked inside, then ask him to do ulnar deviation. Positive test: pain above the radial side of the hand. *De Quervain's tenosynovitis*
+![Finkelstein's maneuver](mss0.png){width=500px height=335px}
+
+### Nerves
+
+### Median nerve
+
+- [ ] For motor, ask the patient to do "**Ok sign**" this is only testing the anterior interosseous branch of median, that's why we need a test for median proper, next step for that. 
+- [ ] After patient does the "Ok sign", assess its power by trying to pull on his ok sign after asking him to resist.
+
+![Ok sign and anterior interosseous syndrome](mss1.png){width=500px height=300px}
+
+- [ ] To test median nerve proper, we do opposition test of thumb (Oppose thumb and little finger)
+- [ ] For sensory, ask the pt to close his eyes, palpate thenar eminence and ask if patient felt it.
+
+### Ulnar nerve
+
+- [ ] For motor, ask the patient to **abduct and adduct his fingers (scissoring)**. Also,  
+  Adduction power can be assessed by putting a paper between patient's finger (Ask him to not let it go) and trying to pull it.  
+  Abduction power can be assessed by:
+  
+::: {.columns}
+::: {.column width="50%" style="text-align: center;"}
+<div style="width: 100%; height: 300px; display: flex; justify-content: center; align-items: center; background: #f5f5f5; border: 1px solid #ddd;">
+  <img src="mss2.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+</div>
+<p style="margin-top: 0.5em; font-size: 0.9em;"><em>Ulnar - abduction testing</em></p>
+:::
+
+::: {.column width="50%" style="text-align: center;"}
+<div style="width: 100%; height: 300px; display: flex; justify-content: center; align-items: center; background: #f5f5f5; border: 1px solid #ddd;">
+  <img src="mss3.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+</div>
+<p style="margin-top: 0.5em; font-size: 0.9em;"><em>Scissoring</em></p>
+:::
+:::
+
+- [ ] For sensory, ask the pt to close his eyes, palpate hypothenar eminence and ask if patient felt it
+
+### Radial nerve
+
+- [ ] For **motor**, ask the patient to **extend his fingers at (MCP joint)** ask the patient to lay hand flat on a table, and raise only the fingers. (Then against resistance for power assessment)
+
+![](mss4.png){width=200px height=300px}
+
+- [ ] For **sensory**, ask the pt to close his eyes, palpate dorsum of the hand on the lateral half
+
+![](mss5.png){width=500px height=300px}
+
+**Carpal tunnel syndrome** (3 tests);
+
+1) ***Carpal Compression Test (most sensitive)***; compress with your thumb the position of the median nerve (Proximal to the distal hand crease) for 1 minute, this should (If the nerve is compressed) trigger the compression thus causing signs of carpal tunnel syndrome (Pain, Paresthesia and Numbness on the lateral 3.5 fingers) aka **Durkan's test**
+
+2) **Tinel's test**; tap the position of the median nerve (Proximal to the distal hand crease) for 1 minute, this should (If the nerve is compressed) trigger the compression thus causing signs of carpal tunnel syndrome (Pain, Paresthesia and Numbness on the lateral 3.5 fingers)
+
+![](mss6.png){width=500px height=300px}
+
+3) **Phalen's test**; (Reverse prayer) for 1 minute, a positive test again will produce symptoms of carpal tunnel syndrome (Pain, Paresthesia and Numbness on the lateral 3.5 fingers)
+
+![](mss7.png){width=500px height=300px}
+
+End your exam by:
+
+- [ ] Mention doing a neurovascular check
+- [ ] Mention doing capilaary refill test
+- [ ] Mention assessing radial pulse

@@ -1,0 +1,149 @@
+---
+title: "CLD stigmata checklist"
+---
+
+Deeply focus on **points** in **bold**.
+
+![Stigmata of chronic liver disease - Bootcamp](cld1.png)
+
+## WIPPER and the intro
+
+-   [ ] Introduce yourself and shake hands
+-   [ ] Washing of hands and appropriate hand hygiene
+-   [ ] Asking for permission
+-   [ ] Ensuring the room’s privacy
+-   [ ] Ensuring the environmental warmth and good lighting conditions
+-   [ ] Asking for appropriate exposure (from the **xiphisternum** to the **symphysis pubis**) (nipples to mid thigh originally)
+-   [ ] Asking the patient to be in the appropriate position (flat with $1$ or $2$ pillows \~ around $10-15$ degrees)
+-   [ ] Relocating to the right side of the patient
+-   [ ] Asking for a chaperon
+-   [ ] “I have all of my equipment's”
+
+## General look of the patient
+
+-   [ ] **Consciousness, alertness and orientation** of the patient to time, place and person (After asking [*the* $3$ questions)](miscellaneous.qmd)
+-   [ ] Comment on the patient’s position and comfort
+-   [ ] Comment on the patient’s **external devices** status, such as \~ stomas, drains, catheters, etc
+-   [ ] Patient is not in respiratory distress, not tachycardic, if he's cachectic or obese
+
+## Vital signs
+
+-   [ ] Make sure you know the [$6$ vital signs](miscellaneous.qmd)
+-   [ ] Take height and weight to calculate BMI and assess nutritional status
+
+## Hands
+
+Starting with a quick glance at the nails:
+
+-   [ ] No **finger clubbing**
+-   [ ] No **koilonychia** (*IDA*), **leukonychia** (*Hypoalbuminemia*)  
+      
+_[Mention **Terry’s Nails**, type of apparent leukonychia, characterized by ground glass opacification of nearly the entire nail]_
+
+![Terry's Nails](cld2.png)
+
+Moving to the still-hand examination:
+
+- [ ] No **dupuytren’s contracture** (Alcohol-related CLD)
+- [ ] No muscle wasting
+- [ ] No **palmar erythema**
+- [ ] No **Hypertrophic osteoarthropathy** (clubbing + periostitis of hand joints)
+- [ ] No marks of **I.V drug abuse**
+
+Palpation + tests:
+
+- [ ] Palpate temperature and dryness/sweatiness (bilaterally)
+- [ ] Test for **flapping tremor (Asterixis)** (don’t apply resistance!)
+
+## Face
+
+**Eyes**
+
+- [ ] Retract upper eyelid → no **jaundice**
+- [ ] Examine conjunctiva → no **pallor**
+
+**Cheeks & Lips**
+
+- [ ] No **sialadenitis/sialadenosis** (parotid swelling; chronic alcohol abuse)
+- [ ] No **spider nevi** (better mentioned on chest)
+
+**Mouth**
+
+- [ ] No **halitosis** (*Fetor hepaticus*)
+
+## Neck
+Nothing specific to CLD stigmata.
+
+## Chest
+- [ ] Normal hair distribution (no **hair loss**)
+- [ ] No **scratch marks**
+- [ ] No **spider nevi**
+- [ ] No **gynecomastia** (male) / **breast atrophy** (female)
+
+## Abdominal Exam
+
+### Inspection – Foot of the Bed
+
+- [ ] **Contour** (flat, protuberant, scaphoid)  
+_In CLD → **distended abdomen** due to **ascites**_
+
+### Inspection – Right Side
+
+- [ ] No distended veins (**Caput medusae**)
+- [ ] No **bruising**
+
+### Palpation & Percussion
+**Tips:**
+
+- Palpate and percuss organs systematically with respiration.
+- Normal liver span: 6–12 cm.
+- Spleen → percuss ribs 9–11 (normally dull, non-ballottable).
+
+
+### Liver – Palpation
+- [ ] Start at RIF, move 1 cm at a time with inspiration/expiration.
+- [ ] If found → comment (smooth, sharp, non-tender edge).  
+- [ ] If not found → percuss upwards.
+
+### Liver – Percussion
+- [ ] Ask for breath hold (after full expiration).
+- [ ] During expiration, percuss down from the 2nd intercostal space to the point of dullness.
+- [ ] Measure span (6–12 cm normal, **no hepatomegaly**).
+
+### Spleen – Palpation
+- [ ] Start from RIF diagonally, normally impalpable.
+- [ ] Roll patient and palpate again from umbilicus.
+- [ ] Impalpable spleen; **no spleenomegaly**.
+
+### Spleen – Percussion
+- [ ] Percuss ribs 9–11 → normal dullness.
+
+## Ascites Assessment
+Three tests:
+
+1. **Shifting dullness**  
+   - Percuss midline → flank dullness  
+   - Roll patient (wait 15s) → **no shifting dullness**
+
+2. **Fluid thrill**  
+   - Hand on midline, flick other side  
+   - **No transmitted thrill**
+   
+3. **Succussional splash** (mention only)
+
+## Auscultation
+- [ ] Auscultate over liver, spleen  
+- [ ] No friction rub
+
+## Ending the Station
+- [ ] Examine **external genitalia** _(atrophy)_  
+- [ ] Examine **PR (anorectal varices)**  
+- [ ] Examine **lower limb for edema, hair loss**  
+- [ ] Check **sacral edema**
+
+### Hepatic Encephalopathy
+We assess grade using **West Haven Criteria**:
+
+![West Haven Hepatic Encephalopathy Grading](cld3.png)
+
+THE END

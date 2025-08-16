@@ -1,0 +1,245 @@
+# Gastrointestinal checklist
+
+## WIPPER and the intro
+
+-   [ ] Introduce yourself and shake hands
+-   [ ] Washing of hands and appropriate hand hygiene
+-   [ ] Asking for permission
+-   [ ] Ensuring the room’s privacy
+-   [ ] Ensuring the environmental warmth and good lighting conditions
+-   [ ] Asking for appropriate exposure (from the **xiphisternum** to the **symphysis pubis**) (nipples to mid thigh originally)
+-   [ ] Asking the patient to be in the appropriate position (flat with $1$ or $2$ pillows \~ around $10-15$ degrees)
+-   [ ] Relocating to the right side of the patient
+-   [ ] Asking for a chaperon
+-   [ ] “I have all of my equipment's”
+
+## General look of the patient
+
+-   [ ] **Consciousness, alertness and orientation** of the patient to time, place and person (After asking [*the* $3$ questions)](miscellaneous.qmd)
+-   [ ] Comment on the patient’s **position** and **comfort**
+-   [ ] Comment on the patient’s **external devices** status, such as \~ stomas, drains, catheters, etc
+-   [ ] Patient is not in **respiratory distress**, not **tachycardic**, if he's **cachectic** or **obese**
+-   [ ] No **skin redundancy**
+
+## Vital signs
+
+-   [ ] Make sure you know the [$6$ vital signs](miscellaneous.qmd)
+-   [ ] Take height and weight to calculate BMI and assess nutritional status of the pt
+
+## Hands
+
+Starting with a quick glance at the nails:
+
+-   [ ] No **finger clubbing**
+-   [ ] No **koilonychia** (*IDA*), **leukonychia** (*Hypoalbuminemia*)
+
+Moving to the still-hand-examination:
+
+-   [ ] No **dupuytren's contracture** (*Alcohol related chronic liver diseases*)
+-   [ ] No **muscle wasting**
+-   [ ] No **tar stain**
+-   [ ] No **palmar erythema**
+-   [ ] No **pallor**
+-   [ ] No **I.V drug abusing marks**
+
+Moving to the palpation part of hand examination + tests:
+
+-   [ ] Do the **[usuals for palpation](miscellaneous.qmd)**, then palpate hand’s **temperature** and comment on **dryness/sweatiness** (Bilaterally)
+-   [ ] Test for **flapping tremor** (*Asterixis*) `(Don’t apply resistance!!)`
+
+## Face
+
+Eyes;
+
+-   [ ] Ask the patient to look down and retract upper eyelid to expose sclera *{scleral icterus}*, No **jaundice**
+-   [ ] Do the opposite of the previous tick, examine conjunctiva for **pallor**
+
+Cheeks and lips;
+
+-   [ ] No visible **sialadenitis or sialadenosis (Parotid swellings; *chronic alcohol abuse*, *bulimia nervosa*)**
+-   [ ] No **spider nevi** `(Better mentioned on chest!!)`
+-   [ ] No **aphthous ulcers** *(Celiac, IBD but m/c idiopathic)*
+
+Mouth;
+
+-   [ ] No **angular cheilitis** *(Iron deficiency)*
+-   [ ] No **atrophic glossitis** *(Iron deficiency)*
+-   [ ] No **beefy tongue** *(deficiency of B12/folate)*
+-   [ ] No **halitosis** *(Fetor hepaticus (Chronic liver diseases), alcohol, uremia, ketones..)*
+-   [ ] Comment on **good oral hygiene**
+
+## Neck
+
+Check for:
+
+-   [ ] **Left supraclavicular node enlargement** *(Troisier’s sign) (Gastric, pancreatic CA)*
+-   [ ] **Widespread lymphadenopathy, hepatosplenomegaly** → *(Lymphoma)*
+
+## Chest
+
+-   [ ] Comment on **normal hair distribution** *(hair loss in CLD)*
+-   [ ] No **scratch marks**
+-   [ ] No **spider nevi**
+-   [ ] No **gynecomastia** *(Male) / breast atrophy (Female)*
+
+## Abdominal Exam
+
+If this was your osce station, proceed with WIPPER, vital signs and then directly;
+
+### **Inspection; Foot of the bed**
+
+Comment on 3 things;
+
+1.  [ ] **Contour** (Flat, Protuberant,Scaphoid) \~ abdomin might be filled with the [*5F’s*](miscellaneous.qmd) and **Symmetry**
+2.  [ ] **Umbilicus** (Normally it’s centrally located, inverted) *(Can be shifted or everted if abdominal pressure is increased)*
+3.  [ ] Ask the patient to breath, comment that **abdomen moves with respiration** *(It may not move in case of acute abdomen)*
+
+### **Inspection; Right side of the pt**
+
+5 S’s, 2 P’s, 1 D, 1 B, and hair
+
+-   [ ] No **scars**, **swellings**, **skin lesions**
+-   [ ] No **stomas**, **striae**
+-   [ ] No visible **peristalsis** (RIF)
+-   [ ] No visible **pulsations**
+-   [ ] No **visible dilated veins** _(**Caput medus**)_
+-   [ ] No **bruising**
+-   [ ] Normal **hair distribution**
+
+**Maneuvers;**
+
+Ask the patient to **cough facing his left side** while **looking at his hernial orifices**
+
+-   [ ] Comment on **no cough impulse** / **no bulging masses**
+
+Ask the patient to **raise his head** يرفع حاله `(Don’t apply resistance!!)`
+
+-   [ ] Comment on **no divercation of recti**
+
+### Palpation
+
+First, as always, **[usuals of palpation](miscellaneous.qmd)** (hand hygiene, warmth, permission, ask about pain, hold eye to eye contact)
+
+Second!! **SIT ON THE CHAIR** 
+
+
+**Light**
+
+-   [ ] Comment that you’re doing light palpation to gain pt’s confidence.
+-   [ ] Gently! palpate the 9 regions
+-   [ ] Comment “**Soft and lax abdomin, no guarding, no superficial masses, no superficial tenderness**”
+
+**Deep**
+
+-   [ ] Deeply palpate 9 regions of abdomin
+-   [ ] Comment “**No deep masses, No deep tenderness**”
+-   [ ] Mention testing for **Murphy's sign** and **Rebound tenderness**
+
+Our prof's tips after finishing palpation;
+
+- Start by examining organs, with each organ, palpate then percuss directly, and we do every one of them while asking pt to breath (Lead his respiration, ask to inhale and exhale)
+
+- Orient your hands by keeping the fingers parallel to the rib cage
+
+- Normal liver span is 6-12cm
+
+- Spleen → Percuss it only on 9,10,11th ribs, it’s dull and non-ballottable normally. During spleen’s maneuver, after rolling the patient with your left hand, start from the umbilicus to save time.
+
+**Back to the steps!**
+
+### LIVER; palpation
+
+-   [ ] Place your hand on RIF, parallel to rib cage, ask the patient to mouth-breath, ask to inspirate → push deep, ask to exhale → release, moving 1cm at a time until you get to either the liver edge or rib cage.
+
+You have 2 choices,
+
+if you found the edge;
+- [ ] Ask the patient to hold his hand on the point and comment; **smooth, sharp, non tender liver edge**
+
+if you didn’t, you’ll have to percuss in upward direction afterwards.
+
+### LIVER; percussion
+
+-   [ ] Ask the patient to hold his breath after full expiration.
+-   [ ] Starting from 2nd intercostal space, percuss downwards until the tone changes from resonant to dull indicating highest point of liver span
+-   [ ] measure from this point to the other point the patient is holding (6-12cm is normal liver span) and comment on it’s span and **no hepatomegaly**
+-   [ ] (Percuss upward if u didn’t feel liver edge, look for the point of tone change from tympanic to dull (no breathing required), measure..
+
+### Spleen; palpation
+
+-   [ ] Again, start from RIF, parallel to left rib cage, and go diagonally 1 cm at a time, do same steps of liver including breathing, but here you’ll 100% not feel the spleen as its normally impalpable
+-   [ ] Ask the patient to roll towards you and hold him with your left hand
+-   [ ] Restart palpating from the umbilicus region
+
+### Spleen; percussion
+
+-   [ ] Only percuss on 9,10,11th ribs mid axillary and comment on normal dullness, no palpable spleen.
+
+### Kidney; palpation (3 tests)
+
+-   [ ] **Bimanual test**: left hand is always below, palpate by right hand over the flanks, again just like other organs, ask the patient to breath.
+-   [ ] **Ballottement test**: just after bimanual test, pump using the left hand that’s below the flank, and feel the kidney with the right hand
+-   [ ] Comment on **palpable, ballottable kidney, not tender, not enlarged**
+-   [ ] Ask the patient to sit, fist his costovertebral angle twice, while holding eye-eye contact to assess renal angle tenderness
+-   [ ] Comment on **no renal angle tenderness**
+
+### Kidney; percussion (retro peritoneal organ, cannot percussion it (resonant tone)
+
+-   [ ] Percuss bilaterally pt’s flanks
+-   [ ] Comment on **resonant kidney percussion**
+-   [ ] Percuss the urinary bladder \~ Dull for full bladder, tympanic for empty one (pelvic organ when empty)
+
+## Ascites assessment
+
+3 tests, 2 done, 1 mentioned
+
+1- Shifting dullness; (best for moderate ascites, will miss massive ascites)
+
+-   [ ] Start below xiphisternum, percussing with fingers horizontal, and find a very loud tympanic percussion note to help you.
+-   [ ] from that point, rotate finger to be vertical and start going laterally (towards you, for easier operation) until you find a dull spot
+-   [ ] Ask the patient to roll while holding your hand (To his left side) (mention that you will wait 15 seconds but don’t actually wait)
+-   [ ] percuss again, it should still be dull normally
+-   [ ] comment on **no shifting dullness**
+
+2- Transmitted thrill (positive only in massive ascites)
+
+-   [ ] Ask the patient to put edge of his hand on the midline, place one of your hands flat on a side, and with the other one, flick a finger against its side, if you feel nothing on the flat hand; (DO IT BILATERALLY)
+-   [ ] mention **no transmitted thrill** 
+
+3- Mention **succussional splash** test; don’t actually do it!!
+
+## Auscultation
+
+3 things to auscultate for; (All using diaphragm)
+
+1- Bowel sounds;
+
+-   [ ] Put the diaphragm on paraumbilical areas
+-   [ ] Comment on **present bowel sounds** (Normally, if you didn’t hear any, you'd wait up-to 2 minutes)
+
+2- Bruits
+
+-   [ ] Above umbilicus → Aortic bruit
+-   [ ] Comment on **no aortic bruit**
+-   [ ] 2cm above, 2cm lateral to umbilicus → Renal artery bruit
+-   [ ] Comment on **no renal artery bruit**
+-   [ ] 2cm below, 2cm lateral to umbilucus → Iliac artery bruit
+-   [ ] Comment on **no iliac artery bruit**
+
+3- Friction rub over organs;
+
+-   [ ] RUQ for liver → **No friction rub**
+-   [ ] Spleen area → **No friction rub**
+-   [ ] Kidney area → **No friction rub**
+
+## Ending the station
+
+-   [ ] I will examine the external genitalia (we do that to assess genitalia atrophy in case of chronic liver diseases)
+-   [ ] I will perform per-rectal examination *Melena*
+-   [ ] Lower limbs for edema *CLD*
+-   [ ] Sacral edema *CLD*
+-   [ ] Pyoderma gangrenosum *IBD*
+-   [ ] Auscultate femoral artery for its bruit
+-   [ ] Hernial orifices
+
+THE END

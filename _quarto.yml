@@ -1,0 +1,50 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "The Complete - Physical Examination Checklists"
+  author: "Ahmad AlHurani"
+  date: "13/08/2025"
+  chapters:
+    - index.qmd
+    - cvs.qmd
+    - rs.qmd
+    - gastrointestinal.qmd
+    - cld.qmd
+    - thyroid.qmd
+    - mss.qmd
+    - pad.qmd
+    - cne.qmd
+    - miscellaneous.qmd
+
+format:
+  html:
+    theme: 
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+    toc-depth: 3
+    number-sections: false
+    html-math-method: mathjax
+    
+  pdf:
+    documentclass: scrreprt
+    fontfamily: lmodern
+    papersize: a4
+
+fontfamily: "Lato, Avenir, Helvetica, sans-serif"
+mainfont: "Lato"
+monofont: "Roboto Mono"
+fontsize: 13.5pt  # Increased from 12pt
+fontweight: 400
+boldweight: 600
+header-font-weight: 500
+
+bibliography: references.bib
+link-citations: true
+crossref:
+  chapters: true
+
+editor: source

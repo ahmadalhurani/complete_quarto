@@ -1,0 +1,142 @@
+---
+title: "Peripheral Arterial Disease checklist"
+format: html
+---
+
+## WIPPER and the Intro
+
+- [ ] Introduce yourself and shake hands  
+- [ ] Washing of hands and appropriate hand hygiene  
+- [ ] Asking for permission  
+- [ ] Ensuring the room's privacy  
+- [ ] Ensuring the environmental warmth and good lighting conditions  
+- [ ] Asking for appropriate exposure (**from the waist and above and from the knees and down**)  
+- [ ] Asking the patient to be in the appropriate position (**semi-sitting at 45 degrees in bed**)  
+- [ ] Relocating to the right side of the patient  
+- [ ] Asking for a chaperon  
+- [ ] "I have all of my equipment's"  
+
+## General Look of the Patient
+
+- [ ] **Consciousness, alertness and orientation** of the patient to time, place and person ([After asking the 3 questions](miscellaneous.qmd))  
+- [ ] Comment on the patient's **position and comfort**  
+- [ ] Comment on no obvious **shortness of breath** (PE)  
+- [ ] Comment on the patient's **external devices** such as any mobility aids (Wheelchairs, walking aids)  
+- [ ] Comment on any **Medical equipment's** such as any dressings or limb prosthesis  
+- [ ] Comment on **cyanosis**  
+- [ ] Comment on no **limb pallor**  
+
+## Vital Signs (Mention)
+
+- [ ] Mention measuring Blood pressure **bilaterally**  
+- [ ] Make sure you know the [6 vital signs](miscellaneous.qmd)  
+
+## Inspection
+
+- [ ] Inspect the **upper** limbs bilaterally and do not forget the hands and fingers  
+- [ ] Inspect the **lower** limbs bilaterally and do not forget the feet and toes, also check the back of the legs + sole  
+- [ ] Mention no **missing limbs or digits, and no scars and no dressings**  
+- [ ] Mention no **xanthomata** (*Hyperlipidema is a major risk factor for PAD*)  
+- [ ] Mention no **Tar stain** (*Smoking is a major risk factor for PAD*)  
+- [ ] Mention no **muscle wasting**  
+- [ ] Mention seeing no **dry skin, no shiny skin, no hair loss, no thickened or brittle nails**  
+- [ ] Mention no **signs of infections** such as fungal → *between the toes*  
+- [ ] Mention no **color changes** such as pallor or darker pigmented skin (*Lipo-dermato-sclerosis*)  
+- [ ] Mention no **gangrene**  
+
+::: {.callout-note}
+**Gangrene definition**  
+Gross description of a necrotic tissue with mummification and black discoloration.  
+Wet gangrene is infected, looks black and unclearly demarcated, needs emergent amputation for risk of sepsis.  
+Dry gangrene is not infected, dark and well demarcated.  
+*Finger tip necrosis is a sign for Buerger's disease aka thromboangiitis obliterans.*  
+:::
+
+- [ ] Mention no **ulcers**  
+- [ ] Mention no **guttering of veins**  
+
+::: {.callout-note}
+**Guttering of veins**  
+In a warm room the veins of a normal foot are dilated and full of blood, even when the patient is lying horizontally.  
+In an ischaemic foot the veins collapse and sink below the skin surface to look like pale-blue gutters.  
+:::
+
+- [ ] Ask the patient to move his limbs and mention no **paralysis**  
+
+## Palpation
+
+- [ ] Do the [usuals for palpation](miscellaneous.qmd)  
+- [ ] Generally and gently palpate the limbs for any **tenderness or crepitus** (Gas gangrene)  
+- [ ] Mention **no tenderness or crepitus**  
+- [ ] Palpate with the dorsum of your hand to **check temperature of upper and lower limbs**, check on 3 points per limb, bilateral limbs at a time, normally you should feel symmetrically warm limbs.  
+- [ ] Check **capillary refill time by applying 5 seconds of pressure to a digit's nail**, then release, notice its returning to its normal color (Normally takes <3 seconds)  
+
+### All Pulses (Compare right and left!)
+
+- [ ] **Radial pulse**; using 3 fingers, *lateral to flexor carpi radialis*  
+- [ ] Check both **radial pulses** simultaneously to assess "Radio-radial delay", a sign for aortic dissection  
+- [ ] Check radial and femoral pulses simultaneously to assess **Radio-femoral delay**, a sign for aortic coarctation (ONLY MENTION)  
+- [ ] **Brachial pulse**, using 2 fingers, assess the brachial pulse *medial to the biceps tendon in antecubital fossa* (Bilaterally)  
+- [ ] Using 2 fingers, gently assess the **carotid pulse** *anterior to sternocleidomastoid near the jaw*  
+- [ ] Check **posterior tibial pulse** (*posterior to medial malleolus, 1/3 distance between medial malleolus and calcaneus | 1 cm behind, 1 cm below medial malleolus (Macleod*))  
+- [ ] Check **dorsalis pedis pulse** (*lateral to extensor hallucis longus, against navicular bone*)  
+- [ ] Also mention **popliteal pulse** just in case :)  
+
+### Special - Buerger's Test 
+
+- [ ] With the patient lying supine, stand at the end of the bed and **raise both of the patients' legs to 45 degrees and keep them for 1-2 minutes** observing the colors of them  
+- [ ] Ask the patient to sit on the edge of the bed with his **legs hanging**  
+- [ ] Notice how the legs first turn blue due to the passage of deoxygenated blood through the ischemic tissue then they will become red (**Reactive hyperemia**)  
+
+::: {.callout-note}
+**Interpretation of Buerger’s Test**  
+- In a healthy individual, the legs should **remain pink** even up to 90°.  
+- Development of **pallor** indicates *inadequate perfusion against gravity*.  
+  - Record the angle of pallor (Buerger’s angle): the **lower the angle, the more severe the disease**.  
+- When sitting, legs may first appear **blue** (deoxygenated blood in ischemic tissue), then turn **red** (reactive hyperemia).  
+This indicates ischemia and correlates with delayed capillary filling.  
+:::
+
+::: {.callout-note}
+**Capillary Filling Time**  
+After elevating the legs, patients should be asked to sit up and dangle their feet over the side of the couch.  
+A normal leg and foot will remain a healthy pink colour, whereas an ischaemic leg slowly turns from white (after elevation) to pink and then takes on a suffused purple-red colour.  
+The time taken for the colour of the foot to change from white to pink is the capillary filling time, and depends upon the degree of arterial obstruction.  
+In severe ischaemia it may be as long as 15-30 seconds. A red-purple foot is indicative of severe ischaemia.  
+:::
+
+## Auscultation
+
+- [ ] Mention auscultating over the **femoral and carotids** and mention no bruit  
+
+## Further Investigations and Theoretical Knowledge
+
+- [ ] Examine bilateral blood pressure to assess any **discrepancies between the two arms** suggestive of *aortic dissection*  
+- [ ] Complete **CVS exam**  
+- [ ] Upper and lower **neurological examination**  
+- [ ] I want to test for **thoracic outlet syndrome**  
+
+**Roos stress test**
+
+![Roos Stress Test Position](pad0.png)
+
+Ask the patient to **abduct his shoulders to 90 degrees**, with **maximal external rotation** on.  
+Test is positive when patient *can't keep this for more than 3 minutes*.  
+
+- [ ] **Allen's Test**  
+- [ ] **Raynaud's**  
+- [ ] **Ankle brachial pressure index**  
+
+::: {.callout-note}
+**Ankle Brachial Pressure Index (ABPI)**  
+It is a ratio between the blood pressure measured in the ankle and that measured in the brachial artery, used to assess lower limb perfusion.  
+
+- Left ABPI = (Highest pressure of either left Post. tibial artery or left dorsalis pedis) / (Highest brachial pressure (R/L))  
+- Right ABPI = (Highest pressure of either right Post. tibial artery or right dorsalis pedis) / (Highest brachial pressure (R/L))  
+
+**Normal ranges:**  
+- Normal → $0.8 - 1.3$  
+- Mild or moderate arterial disease → $0.5 - 0.79$ (*claudication*)  
+- Severe arterial disease → $<0.5$ (*Rest pain, ulceration, gangrene → critical limb ischemia*)  
+- Calcified vessels → $>1.3$ (*suggestive of DM, vasculitis, atherosclerosis → need duplex US/CT angio*)  
+:::

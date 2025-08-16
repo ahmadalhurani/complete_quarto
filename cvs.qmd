@@ -1,0 +1,196 @@
+---
+title: "Cardiovascular checklist"
+format: 
+  html:
+    fig-align: left
+---
+```{=html}
+<div style="display: flex; justify-content: space-between; margin: 20px 0;">
+  <img src="cvs1.png" style="width: 48%; height: auto; object-fit: contain;">
+  <img src="cvs2.png" style="width: 48%; height: auto; object-fit: contain;">
+</div>
+```
+
+## WIPPER and the intro
+
+- [ ] Introduce yourself and shake hands
+- [ ] Washing of hands and appropriate hand hygiene
+- [ ] Asking for permission
+- [ ] Ensuring the room's privacy
+- [ ] Ensuring the environmental warmth and good lighting conditions
+- [ ] Asking for appropriate exposure (**from the waist and above**)
+- [ ] Asking the patient to be in the appropriate position (**semi-sitting at 45 degrees in bed**)
+- [ ] Relocating to the right side of the patient
+- [ ] Asking for a chaperon
+- [ ] "I have all of my equipment's"
+
+## General look of the patient
+
+- [ ] **Consciousness, alertness and orientation** of the patient to time, place and person (After asking the [3 questions](miscellaneous.qmd))
+- [ ] Comment on the patient's **position and comfort**
+- [ ] Comment on the patient's **external devices** status (No oxygen masks, nebulizers etc.)
+- [ ] Comment on **respiratory rate (Not tachypneic)**, **respiratory distress**
+- [ ] Comment on **cyanosis**
+- [ ] Comment on **edema**
+
+## Vital Signs
+
+- [ ] Make sure you know the [6 vital signs](miscellaneous.qmd)
+
+## Hands - Inspection
+
+Starting with the hand
+
+- [ ] No **cyanosis**
+- [ ] No **pallor**
+- [ ] No **palmar erythema**
+- [ ] No **petechial rash**
+- [ ] No **Xanthomata** (Hyper-lipidemia)
+- [ ] No **Janeway lesions** (painless, thenar region) (Infective endocarditis)
+- [ ] No **Osler's nodes** (painful, tip of fingers) (Infective endocarditis)
+- [ ] No **tar staining**
+- [ ] No **IV drug abuse signs**
+
+Moving on to the nails
+
+- [ ] No **finger clubbing**
+- [ ] No **splinter hemorrhages** (Infective endocarditis)
+
+End this section by examining for tremor
+
+- [ ] Examine for **fine tremor**
+
+## Hands - Palpation
+
+- [ ] Check hands' **temperature, dry/sweatiness**
+- [ ] Check **Capillary refill** (<2 seconds is a normal capillary refill time)
+
+Check pulses bilaterally, details below  
+All pulses are done with 2 fingers, **except for radial;**
+
+## Radial pulse
+
+- [ ] Radial pulse; **using 3 fingers**, **lateral to flexor carpi radialis**, after 1 minute (do 15sec), comment on the rate, rhythm, volume, character and compressibility.
+- [ ] Check both radial pulses simultaneously to assess "**Radio-radial delay**", a sign for aortic dissection
+- [ ] Check radial and femoral pulses simultaneously to assess "**Radio-femoral delay**", a sign for aortic coarctation (ONLY MENTION)
+- [ ] Calculate **pulse deficit**, we don't do this during exams (mention it), but a difference of **+10 BPM** is abnormal (Associated with atrial fibrillation)
+- [ ] Now ask the patient about shoulder pain first, if none is present, **elevate hand above level of patient's head while checking the radial pulse**, to check for "**Collapsing pulse**" (Aortic regurgitation)
+- [ ] Don't forget to comment your findings, mention the HR measured, regular rhythm, normal volume, normal character, compressible, no radio-radial/radio-femoral delays, no pulse deficit, no collapsing pulse.
+
+## Brachial pulse
+
+- [ ] Using **2 fingers**, assess the brachial pulse **medial to the biceps tendon** in antecubital fossa. (Bilaterally)
+- [ ] Mention rate, rhythm, volume, character and compressibility
+
+## Carotid pulse
+
+- [ ] Using **2 fingers**, gently assess the carotid pulse **anterior to sternocleidomastoid near the jaw**.
+- [ ] Bilaterally, `but never feel both sides at the same time` as that might trigger vasovagal attack, comment on rate, rhythm, volume, character and compressibility
+- [ ] Ask the patient to **hold his breath**, and auscultate for the bruit
+- [ ] Comment on the bruit
+
+#### Femoral (mention only), posterior tibial and dorsalis pedis are done in PVS. We do them if the station was a focused pulses station
+
+## Face
+
+- [ ] Check eyelids for **xanthelasmata** (Hyper-lipidemia)
+- [ ] Check iris for **corneal arcus** (Hyper-lipidema)
+- [ ] Check conjunctiva for **pallor and petechial hemorrhage** (Infective endocarditis)
+- [ ] Mention that you need **fundoscopy** to check for **roth spots** (Infective endocarditis), or **HTN/DM changes**
+- [ ] Check for **malar flush** on cheeks (Mitral valve stenosis)
+- [ ] Check for any signs of **central cyanosis** (Under the tongue), **peripheral cyanosis** (On the lips)
+
+## JVP Examination
+
+As JVP is very important and might be a full station on its own, make sure you're ready for it.
+
+### Inspection
+
+- [ ] Rest the patient's head on a pillow (Make sure its rested, we need a relaxed sternocleidomastoid), ask him to **turn his head slightly to the left**, using a torch, try to find JVP pulsation.
+- [ ] Comment, **double peaked, inward pulsating JVP**
+
+### Palpation
+
+- [ ] After doing the [usuals for any palpation](miscellaneous.qmd), try to palpate it
+
+JVP is **normally impalpable**, so make this comment and move on
+
+- [ ] **Compress the root of the neck, JVP should disappear**, comment that it disappeared after compressing root of the neck
+- [ ] Ask the patient to **lie flat → Increased JVP** (comment)
+- [ ] Ask the patient to **sit straight → Decreased JVP** (comment)
+- [ ] Ask the patient to take a **deep inspiration → Decreased JVP** (comment)
+- [ ] Check **abdominojugular reflux**, press (**while gradually increasing pressure**) on the Rt upper quadrant for 30 seconds (don't do full 30 of course), on a positive test (normally positive), **JVP increases** (comment whether positive or negative reflux)
+
+### Measuring JVP
+
+- [ ] Use a ruler, put it on the sternal angle (Straight with the ground not patient's body), assess using a straight object that's put on the highest pulsation you see of the JVP, measure on the ruler and add 5cm and comment on the measured JVP (**Normally it's <9cmH20**)
+
+## Precordium Examination
+
+### Inspection
+
+From the foot of the bed;
+
+- [ ] First ask the patient to take a deep breath
+- [ ] Comment "**Symmetrical chest with no visible deformities, bilateral movement of chest with respiration**"
+
+From the right side of the pt;
+
+- [ ] Check for **scars**, make sure you know what scars mean;  
+  1. **Midsternotomy** is for **CABG**  
+  2. **Left submammary** is for **mitral valvotomy**  
+  3. **Infraclavicular** is for **pacemakers**  
+  And mention **no scars**
+- [ ] Mention **no swellings, visible masses, dilated veins.**
+- [ ] Mention **normal hair distribution**
+- [ ] Using the **torch**, mention afterwards that you see **no visible pulsation/no visible apex beat**
+
+### Palpation
+
+- [ ] Do the [usuals for palpation](miscellaneous.qmd)
+- [ ] Generally palpate the chest, don't miss any point, use your whole hand
+- [ ] Comment **no palpable masses, no tenderness**
+
+**Apex beat**
+
+- [ ] Try to find it using your **whole hand**
+- [ ] Try to find it using **2 fingers** (roll the patient to the left side if you couldn't find it)
+- [ ] Locate it → which intercostal space, is it midclavicular?
+- [ ] Comment; **gently tapping apex beat, located in the 5th intercostal space, midclavicular line.**
+
+**Heaves**
+
+- [ ] Using your **hand's heel**, ask the patient to expire and hold his breath, assess both **right ventricular heave (lower left sternal angle)**, and **left ventricular heave (apex, hence "apical heave")**
+- [ ] Comment! **No right or left ventricular heaves**
+
+**Thrills**
+
+- [ ] Using your **flat fingers**; not the tips nor the base, check for thrills in 4 locations; apex, parasternal, right and left second intercostals.
+- [ ] Comment! **No thrills**
+
+### Auscultation
+
+![Auscultation spots](cvs10.png)
+
+Differentiate S1/S2 by **feeling carotid pulse while auscultating the patient**
+
+- First, with the diaphragm, 4 valvular spots and 2 radiation spots
+  - [ ] 4 Valvular spots, **mitral, tricuspid, aortic and pulmonary**
+  - [ ] 1 Carotid, for **radiation of aortic stenosis**
+  - [ ] 1 Left axilla, for **radiation of mitral regurgitation**
+
+- Second, with the bell, 4 spots
+  - [ ] 4 Valvular spots (some only use the bell for mitral and tricuspid, you'll not be penalized for more spots anyway)
+
+- Last, finish with 2 maneuvers
+  - [ ] **Aortic regurgitation**, using the diaphragm, ask the patient to sit straight and then lean forward, examine (aortic area), and **Erb's area**.
+  - [ ] **Mitral stenosis**, using the bell, ask the patient to roll to his left side and then put the bell on the apex.
+  - [ ] Comment on the whole auscultation; "**Normal S1,S2, no S3,S4, normal physiological splitting of S2, no murmurs, no added sounds like opening snap, ejection click or friction rub**"
+
+## Ending the station
+
+![](cvs12.png)
+
+- [ ] I will auscultate **lung bases for crackles** (Heart failure - Pulmonary edema)
+- [ ] I will examine the **abdomen for ascites; hepatomegaly, sacral edema**
+- [ ] I will examine **lower limb for edema, ulcers, pulses**
