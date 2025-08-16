@@ -5,7 +5,7 @@ project:
 book:
   title: "The Complete - Physical Examination Checklists"
   author: "Ahmad AlHurani"
-  date: "13/08/2025"
+  date: "08/16/2025"
   chapters:
     - index.qmd
     - cvs.qmd
