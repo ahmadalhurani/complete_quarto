@@ -72,7 +72,9 @@ Palpation + tests:
 - [ ] No **halitosis** (*Fetor hepaticus*)
 
 ## Neck
-Nothing specific to CLD stigmata.
+
+- [ ] Mention examining the JVP (will be skipped)
+- [ ] Mention examining the cervical lymph nodes (will be skipped)
 
 ## Chest
 - [ ] Normal hair distribution (no **hair loss**)
