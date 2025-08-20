@@ -90,9 +90,9 @@ If this was your osce station, proceed with WIPPER, vital signs and then directl
 
 Comment on 3 things;
 
-1.  [ ] **Contour** (Flat, Protuberant,Scaphoid) \~ abdomin might be filled with the [*5F’s*](miscellaneous.qmd) and **Symmetry**
-2.  [ ] **Umbilicus** (Normally it’s centrally located, inverted) *(Can be shifted or everted if abdominal pressure is increased)*
-3.  [ ] Ask the patient to breath, comment that **abdomen moves with respiration** *(It may not move in case of acute abdomen)*
+- [ ] **Contour** (Flat, Protuberant,Scaphoid) \~ abdomin might be filled with the [*5F’s*](miscellaneous.qmd) and **Symmetry**
+- [ ] **Umbilicus** (Normally it’s centrally located, inverted) *(Can be shifted or everted if abdominal pressure is increased)*
+- [ ] Ask the patient to breath, comment that **abdomen moves with respiration** *(It may not move in case of acute abdomen)*
 
 ### **Inspection; Right side of the pt**
 
@@ -135,7 +135,11 @@ Second!! **SIT ON THE CHAIR**
 -   [ ] Comment “**No deep masses, No deep tenderness**”
 -   [ ] Mention testing for **Murphy's sign** and **Rebound tenderness**
 
-Our prof's tips after finishing palpation;
+### Percussion
+- [ ] Percuss around the abdomen
+- [ ] Mention normal tympanic percussion note all over the abdomen
+
+Our prof's tips after finishing palpation and general percussion;
 
 - Start by examining organs, with each organ, palpate then percuss directly, and we do every one of them while asking pt to breath (Lead his respiration, ask to inhale and exhale)
 
@@ -154,6 +158,7 @@ Our prof's tips after finishing palpation;
 You have 2 choices,
 
 if you found the edge;
+
 - [ ] Ask the patient to hold his hand on the point and comment; **smooth, sharp, non tender liver edge**
 
 if you didn’t, you’ll have to percuss in upward direction afterwards.
